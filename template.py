@@ -1,13 +1,12 @@
 import os
 from pathlib import Path
 
-project_name = "Project_Name"
+project_name = "heart_disease_prediction"
 
 list_of_files = [
-
     f"{project_name}/__init__.py",
     f"{project_name}/components/__init__.py",
-    f"{project_name}/components/data_ingestion.py",  
+    f"{project_name}/components/data_ingestion.py",
     f"{project_name}/components/data_validation.py",
     f"{project_name}/components/data_transformation.py",
     f"{project_name}/components/model_trainer.py",
@@ -25,6 +24,7 @@ list_of_files = [
     f"{project_name}/pipline/prediction_pipeline.py",
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/main_utils.py",
+    "Notebooks/test.txt",
     "app.py",
     "requirements.txt",
     "Dockerfile",
@@ -34,7 +34,6 @@ list_of_files = [
     "config/model.yaml",
     "config/schema.yaml",
 ]
-
 
 
 for filepath in list_of_files:
