@@ -8,6 +8,25 @@ from pandas import DataFrame
 
 from heart_disease_prediction.exception import heart_disease_prediction_exception
 from heart_disease_prediction.logger import logging
+from sklearn.metrics import (
+    accuracy_score,
+    classification_report,
+    ConfusionMatrixDisplay,
+    precision_score,
+    recall_score,
+    f1_score,
+    roc_auc_score,
+    roc_curve,
+)
+
+
+def evaluate_clf(true, predicted):
+    acc = accuracy_score(true, predicted)  # Calculate Accuracy
+    f1 = f1_score(true, predicted)  # Calculate F1-score
+    precision = precision_score(true, predicted)  # Calculate Precision
+    recall = recall_score(true, predicted)  # Calculate Recall
+    roc_auc = roc_auc_score(true, predicted)  # Calculate Roc
+    return acc, f1, precision, recall, roc_auc
 
 
 def read_yaml_file(file_path: str) -> dict:

@@ -1,0 +1,1023 @@
+id,gender,age,hypertension,heart_disease,ever_married,work_type,Residence_type,avg_glucose_level,bmi,smoking_status,stroke
+22877,Male,0.16,0,0,No,children,Urban,114.71,17.4,Unknown,0
+59671,Female,39.0,0,0,No,Private,Rural,85.59,33.2,Unknown,0
+57645,Female,75.0,0,0,Yes,Govt_job,Rural,132.46,26.2,Unknown,0
+40350,Female,51.0,0,0,No,Private,Urban,110.76,24.7,formerly smoked,0
+68020,Male,47.0,0,0,Yes,Private,Urban,111.84,33.7,Unknown,0
+55529,Male,39.0,0,0,Yes,Private,Rural,114.32,26.4,never smoked,0
+14918,Female,41.0,0,0,Yes,Private,Urban,65.67,26.7,smokes,0
+61178,Male,39.0,0,0,Yes,Private,Urban,164.67,33.8,Unknown,0
+36820,Male,64.0,1,0,Yes,Private,Rural,78.43,30.2,smokes,0
+22591,Female,4.0,0,0,No,children,Urban,99.76,23.2,Unknown,0
+61010,Female,60.0,0,0,Yes,Private,Urban,114.34,30.3,smokes,0
+3099,Female,36.0,0,0,No,Private,Urban,216.96,34.5,Unknown,0
+30824,Male,12.0,0,0,No,children,Rural,115.47,22.6,Unknown,0
+2818,Female,80.0,0,0,No,Self-employed,Rural,230.74,30.2,formerly smoked,0
+27163,Female,60.0,1,0,Yes,Private,Urban,109.0,,Unknown,0
+14376,Male,47.0,0,0,Yes,Private,Rural,88.49,22.2,smokes,0
+21653,Male,8.0,0,0,No,children,Rural,104.3,18.5,Unknown,0
+26503,Female,32.0,0,0,No,Private,Rural,77.16,35.2,smokes,0
+57497,Male,27.0,0,0,No,Private,Rural,69.7,27.3,never smoked,0
+34287,Female,73.0,0,0,Yes,Self-employed,Rural,98.69,27.6,Unknown,0
+51554,Male,42.0,0,0,Yes,Private,Urban,177.91,,Unknown,0
+48129,Female,56.0,0,0,Yes,Private,Urban,80.08,25.6,never smoked,0
+45259,Male,47.0,0,0,Yes,Private,Rural,110.38,30.1,Unknown,0
+58154,Female,20.0,0,0,No,Private,Urban,66.55,26.9,smokes,0
+65643,Female,7.0,0,0,No,children,Urban,156.82,17.3,Unknown,0
+28418,Female,41.0,0,0,Yes,Private,Rural,107.18,22.8,never smoked,0
+56254,Female,25.0,0,0,No,Private,Rural,108.82,41.3,smokes,0
+69183,Male,49.0,0,0,No,Private,Urban,95.79,24.0,Unknown,0
+12686,Male,50.0,0,0,No,Govt_job,Rural,92.81,26.6,never smoked,0
+4959,Female,5.0,0,0,No,children,Urban,82.56,16.6,Unknown,0
+36547,Male,1.64,0,0,No,children,Rural,137.22,18.8,Unknown,0
+28645,Female,38.0,1,0,Yes,Private,Urban,196.01,28.1,never smoked,0
+11632,Male,60.0,0,0,Yes,Private,Urban,96.02,28.7,Unknown,0
+10973,Male,43.0,0,0,Yes,Private,Urban,91.13,33.9,never smoked,0
+16488,Female,57.0,1,0,Yes,Private,Urban,210.0,,never smoked,0
+2044,Female,70.0,0,1,Yes,Self-employed,Rural,65.68,,Unknown,0
+25595,Female,58.0,1,0,Yes,Private,Urban,85.83,44.0,formerly smoked,0
+72715,Female,50.0,0,1,Yes,Private,Urban,193.8,26.4,never smoked,0
+11544,Female,34.0,0,0,Yes,Private,Urban,71.37,32.9,never smoked,0
+18996,Female,13.0,0,0,No,children,Urban,105.22,18.4,Unknown,0
+56875,Female,46.0,0,0,Yes,Govt_job,Urban,162.24,24.3,smokes,0
+10449,Female,24.0,0,0,Yes,Private,Urban,75.23,29.0,never smoked,0
+28461,Male,15.0,0,0,No,Never_worked,Rural,79.59,28.4,Unknown,0
+12367,Female,66.0,0,0,Yes,Self-employed,Urban,94.39,29.4,Unknown,0
+60255,Female,34.0,0,0,No,Private,Rural,103.43,43.6,smokes,0
+40237,Female,11.0,0,0,No,children,Urban,73.66,20.5,never smoked,0
+29221,Female,39.0,0,0,Yes,Private,Urban,92.82,37.4,never smoked,0
+27119,Female,28.0,0,0,No,Private,Rural,104.16,21.5,never smoked,0
+12600,Female,42.0,0,0,Yes,Self-employed,Rural,79.99,26.3,never smoked,0
+20673,Male,39.0,0,0,Yes,Private,Rural,102.35,23.6,never smoked,0
+21101,Male,71.0,0,0,Yes,Private,Rural,67.99,31.1,never smoked,0
+48425,Male,21.0,0,0,No,Private,Rural,89.29,23.4,never smoked,0
+21346,Female,12.0,0,0,No,children,Rural,70.13,17.8,Unknown,0
+10829,Female,21.0,0,0,No,Private,Rural,71.34,24.0,never smoked,0
+45224,Female,46.0,0,0,Yes,Private,Rural,109.22,20.1,never smoked,0
+21467,Male,44.0,0,0,Yes,Private,Urban,89.68,34.6,Unknown,0
+41146,Male,41.0,0,0,Yes,Private,Rural,113.65,49.3,never smoked,0
+10548,Male,66.0,0,0,Yes,Private,Rural,76.46,21.2,formerly smoked,1
+14249,Female,1.32,0,0,No,children,Urban,81.05,18.7,Unknown,0
+52859,Female,4.0,0,0,No,children,Urban,61.54,13.2,Unknown,0
+44315,Male,18.0,0,0,No,Self-employed,Rural,182.86,21.0,Unknown,0
+30285,Male,72.0,0,1,Yes,Self-employed,Rural,74.36,27.3,never smoked,0
+47972,Female,25.0,0,0,No,Govt_job,Rural,74.11,34.1,smokes,0
+32103,Male,59.0,0,0,Yes,Self-employed,Urban,76.51,29.8,never smoked,0
+59054,Male,17.0,0,0,No,Private,Rural,77.79,23.6,Unknown,0
+52838,Male,13.0,0,0,No,children,Urban,58.86,16.9,never smoked,0
+10381,Female,38.0,1,0,Yes,Self-employed,Urban,91.0,33.3,never smoked,0
+24832,Female,65.0,0,0,Yes,Self-employed,Urban,77.46,30.9,formerly smoked,0
+58153,Female,18.0,0,0,No,Private,Urban,123.66,22.2,never smoked,0
+53121,Male,44.0,0,0,Yes,Private,Urban,63.6,37.3,never smoked,0
+50903,Female,29.0,0,0,Yes,Private,Urban,116.98,23.4,never smoked,0
+35565,Male,43.0,0,0,Yes,Private,Urban,111.43,21.9,smokes,0
+19467,Male,60.0,1,0,Yes,Private,Urban,86.04,25.6,smokes,0
+14832,Female,81.0,0,1,Yes,Private,Urban,84.93,31.8,Unknown,0
+70852,Male,80.0,0,0,Yes,Private,Rural,56.99,26.7,never smoked,0
+39956,Female,34.0,0,0,No,Private,Rural,87.21,38.4,Unknown,0
+57210,Female,28.0,0,0,Yes,Private,Rural,131.8,30.3,never smoked,0
+5841,Female,23.0,0,0,No,Private,Urban,86.11,22.3,never smoked,0
+72701,Male,2.0,0,0,No,children,Rural,112.66,14.2,Unknown,0
+56179,Male,29.0,0,0,No,Private,Urban,207.58,22.8,smokes,0
+8203,Male,17.0,0,0,No,Private,Rural,106.56,21.0,Unknown,0
+50309,Female,37.0,0,0,No,Govt_job,Rural,77.37,21.4,never smoked,0
+66794,Female,44.0,0,0,Yes,Govt_job,Rural,81.13,34.1,never smoked,0
+40323,Female,18.0,0,0,No,Private,Urban,70.89,19.8,never smoked,0
+9197,Female,8.0,0,0,No,children,Urban,80.47,20.6,Unknown,0
+65053,Female,34.0,0,0,Yes,Private,Urban,113.01,37.6,never smoked,0
+9906,Female,1.8,0,0,No,children,Urban,102.34,17.0,Unknown,0
+62466,Female,80.0,0,0,Yes,Private,Urban,64.44,45.0,never smoked,1
+49661,Male,53.0,0,0,Yes,Govt_job,Urban,85.17,29.2,never smoked,0
+31932,Female,13.0,0,0,No,children,Urban,76.55,29.1,Unknown,0
+49053,Female,45.0,0,0,No,Private,Rural,120.56,31.6,never smoked,0
+8009,Female,72.0,1,1,Yes,Private,Urban,217.79,26.1,formerly smoked,0
+6048,Female,65.0,0,0,Yes,Private,Urban,104.12,27.4,never smoked,0
+15746,Female,45.0,0,0,Yes,Govt_job,Urban,79.47,28.1,never smoked,0
+35759,Female,16.0,0,0,No,Private,Rural,92.77,24.9,Unknown,0
+13062,Male,18.0,0,0,No,Private,Rural,123.79,20.5,Unknown,0
+49589,Female,44.0,0,0,Yes,Govt_job,Urban,57.33,24.6,smokes,0
+64742,Male,48.0,0,0,No,Self-employed,Rural,64.18,32.1,never smoked,0
+65130,Male,40.0,0,0,Yes,Private,Rural,144.48,29.8,smokes,0
+49196,Female,27.0,0,0,Yes,Private,Urban,127.28,23.4,Unknown,0
+43913,Female,21.0,0,0,No,Private,Rural,107.98,26.9,never smoked,0
+28681,Female,70.0,1,0,Yes,Self-employed,Urban,99.6,34.3,formerly smoked,0
+5046,Male,17.0,0,0,No,Self-employed,Urban,98.42,23.4,Unknown,0
+4683,Male,23.0,0,0,No,Private,Urban,115.98,22.3,never smoked,0
+20751,Female,26.0,0,0,Yes,Private,Rural,75.29,22.6,smokes,0
+12618,Male,79.0,0,1,Yes,Self-employed,Urban,96.79,24.7,Unknown,0
+35660,Male,18.0,0,0,No,Private,Rural,115.46,27.6,Unknown,0
+45357,Female,1.24,0,0,No,children,Rural,113.96,21.5,Unknown,0
+3013,Female,79.0,0,0,Yes,Self-employed,Rural,83.7,28.7,never smoked,0
+31720,Female,38.0,0,0,No,Self-employed,Urban,82.28,24.0,formerly smoked,1
+71585,Female,66.0,0,0,Yes,Govt_job,Urban,87.24,22.5,formerly smoked,0
+52234,Female,72.0,0,0,Yes,Govt_job,Urban,104.05,33.5,never smoked,0
+2456,Male,60.0,1,0,Yes,Govt_job,Rural,100.2,28.5,smokes,0
+42191,Female,52.0,0,0,Yes,Govt_job,Urban,126.34,35.1,never smoked,0
+42594,Male,80.0,1,0,Yes,Govt_job,Urban,114.09,30.1,never smoked,0
+47348,Female,61.0,0,0,Yes,Private,Urban,129.31,30.7,formerly smoked,0
+30303,Male,33.0,0,0,No,Private,Rural,88.5,32.6,formerly smoked,0
+24177,Female,57.0,1,0,Yes,Private,Urban,90.77,43.9,formerly smoked,0
+57917,Female,47.0,0,0,Yes,Private,Urban,157.01,26.1,smokes,0
+50557,Female,68.0,0,0,Yes,Self-employed,Urban,222.58,37.4,smokes,0
+1737,Female,16.0,0,0,No,Private,Rural,86.53,42.2,never smoked,0
+53923,Female,22.0,0,0,No,Private,Urban,113.11,19.8,Unknown,0
+38605,Female,36.0,0,0,Yes,Private,Rural,101.93,22.8,smokes,0
+48298,Female,80.0,0,0,Yes,Private,Rural,70.31,23.2,Unknown,0
+9179,Female,32.0,0,0,No,Private,Urban,74.2,23.0,smokes,0
+68242,Male,56.0,0,0,Yes,Private,Urban,139.72,43.9,never smoked,0
+37307,Female,35.0,0,0,Yes,Private,Urban,65.48,50.5,never smoked,0
+22778,Male,34.0,0,0,Yes,Private,Urban,66.96,26.1,never smoked,0
+11573,Female,19.0,0,0,No,Private,Rural,72.39,,smokes,0
+41291,Female,46.0,0,0,Yes,Private,Rural,218.65,29.5,never smoked,0
+49555,Female,34.0,0,0,Yes,Govt_job,Urban,90.55,30.0,never smoked,0
+41523,Male,9.0,0,0,No,children,Rural,94.59,20.0,Unknown,0
+50373,Female,3.0,0,0,No,children,Rural,68.34,18.0,Unknown,0
+63323,Male,49.0,1,0,Yes,Self-employed,Rural,119.3,30.4,formerly smoked,0
+68382,Male,0.32,0,0,No,children,Urban,127.78,20.8,Unknown,0
+35178,Male,7.0,0,0,No,children,Urban,98.12,20.4,Unknown,0
+65339,Female,46.0,0,0,Yes,Private,Urban,127.75,30.5,never smoked,0
+5455,Male,49.0,0,0,Yes,Private,Rural,78.34,32.5,Unknown,0
+3718,Female,46.0,0,0,Yes,Govt_job,Urban,111.1,23.3,smokes,0
+26197,Female,38.0,0,0,Yes,Private,Rural,104.03,47.3,smokes,0
+66684,Male,70.0,0,0,Yes,Self-employed,Rural,193.88,24.3,Unknown,0
+67356,Female,43.0,0,0,Yes,Private,Urban,80.8,46.1,never smoked,0
+27034,Female,65.0,0,0,Yes,Govt_job,Urban,82.72,29.8,smokes,0
+46767,Female,8.0,0,0,No,children,Rural,67.84,24.0,Unknown,0
+8247,Male,0.16,0,0,No,children,Urban,109.52,13.9,Unknown,0
+4793,Female,60.0,1,0,Yes,Self-employed,Urban,99.23,48.0,formerly smoked,0
+16378,Female,63.0,0,0,Yes,Govt_job,Urban,123.87,34.9,Unknown,0
+51314,Female,78.0,0,0,Yes,Private,Urban,106.74,33.0,formerly smoked,1
+54769,Male,15.0,0,0,No,Private,Urban,57.94,41.7,Unknown,0
+46703,Male,68.0,0,1,Yes,Private,Urban,223.83,31.9,formerly smoked,1
+33051,Male,28.0,0,0,No,Private,Urban,86.24,30.0,Unknown,0
+54067,Female,26.0,0,0,No,Private,Rural,67.21,21.8,formerly smoked,0
+23488,Male,80.0,1,0,Yes,Self-employed,Urban,213.33,31.1,formerly smoked,0
+31701,Male,16.0,0,0,No,Private,Rural,125.89,21.3,never smoked,0
+50663,Female,62.0,0,0,Yes,Govt_job,Urban,110.84,23.4,smokes,0
+44503,Female,25.0,0,0,No,Private,Rural,65.95,35.0,never smoked,0
+21743,Male,4.0,0,0,No,children,Urban,85.88,17.7,Unknown,0
+59506,Male,14.0,0,0,No,Private,Rural,164.7,26.3,Unknown,0
+24246,Male,7.0,0,0,No,children,Urban,77.76,18.1,Unknown,0
+9189,Female,20.0,0,0,No,Private,Urban,80.27,27.9,never smoked,0
+52688,Male,74.0,1,0,Yes,Private,Rural,57.51,31.7,smokes,0
+65966,Female,16.0,0,0,No,Private,Urban,89.14,22.6,formerly smoked,0
+40137,Female,56.0,0,0,Yes,Self-employed,Rural,110.92,25.9,Unknown,0
+46729,Female,1.64,0,0,No,children,Urban,69.89,18.1,Unknown,0
+20421,Female,43.0,0,0,Yes,Private,Rural,68.94,26.8,never smoked,0
+40378,Male,45.0,1,0,Yes,Self-employed,Urban,90.43,39.7,smokes,0
+27608,Female,53.0,0,0,Yes,Govt_job,Urban,74.64,22.4,Unknown,0
+21397,Female,40.0,0,0,Yes,Govt_job,Urban,122.74,23.3,Unknown,0
+64541,Male,23.0,0,0,Yes,Private,Urban,115.83,25.3,never smoked,0
+62384,Male,52.0,0,1,No,Self-employed,Rural,79.81,,formerly smoked,0
+50489,Female,56.0,0,0,Yes,Govt_job,Urban,112.62,24.8,never smoked,0
+37479,Female,54.0,0,0,Yes,Private,Urban,93.96,33.3,smokes,0
+52236,Female,60.0,0,0,Yes,Private,Rural,230.78,40.2,never smoked,0
+30184,Male,82.0,0,0,Yes,Private,Rural,86.62,29.5,formerly smoked,1
+38397,Female,27.0,0,0,No,Private,Urban,111.48,28.9,never smoked,0
+44355,Female,48.0,0,0,Yes,Private,Rural,74.16,19.9,never smoked,0
+53252,Male,82.0,0,0,No,Self-employed,Urban,161.95,30.8,never smoked,0
+57034,Female,37.0,0,0,No,Private,Rural,124.54,31.3,never smoked,0
+34188,Female,47.0,0,0,Yes,Govt_job,Urban,95.07,38.8,formerly smoked,0
+36226,Male,4.0,0,0,No,children,Urban,132.41,16.3,Unknown,0
+12062,Female,54.0,0,0,Yes,Self-employed,Rural,191.82,40.4,smokes,1
+37631,Male,50.0,0,0,Yes,Govt_job,Urban,89.18,34.8,smokes,0
+54437,Male,62.0,0,0,Yes,Self-employed,Rural,136.18,32.2,Unknown,0
+9565,Female,39.0,0,0,No,Private,Rural,79.0,30.0,never smoked,0
+67078,Female,36.0,1,0,Yes,Private,Urban,91.56,42.2,never smoked,0
+37132,Male,82.0,0,0,Yes,Govt_job,Urban,200.59,29.0,formerly smoked,1
+37492,Female,33.0,0,0,Yes,Private,Rural,88.17,38.6,formerly smoked,0
+37299,Male,57.0,0,0,Yes,Private,Urban,107.49,29.5,never smoked,0
+46688,Female,44.0,0,0,No,Private,Urban,127.21,29.8,smokes,0
+35846,Female,43.0,1,0,No,Self-employed,Rural,217.3,27.5,never smoked,0
+57419,Male,59.0,0,0,Yes,Private,Rural,96.16,44.1,Unknown,1
+33175,Female,57.0,0,0,Yes,Govt_job,Urban,110.52,28.5,Unknown,1
+35378,Female,60.0,1,0,No,Private,Urban,96.0,44.5,smokes,0
+16245,Male,51.0,1,0,Yes,Self-employed,Rural,211.83,56.6,never smoked,0
+71387,Female,66.0,0,0,Yes,Govt_job,Rural,59.62,32.4,never smoked,0
+27583,Male,49.0,0,0,Yes,Private,Rural,88.13,32.8,never smoked,0
+21042,Female,72.0,0,0,Yes,Self-employed,Rural,103.25,26.9,formerly smoked,0
+36204,Male,15.0,0,0,No,children,Rural,62.57,32.3,never smoked,0
+66530,Female,38.0,0,0,Yes,Private,Urban,162.3,23.6,never smoked,0
+2458,Female,78.0,0,0,Yes,Private,Rural,235.63,32.3,never smoked,1
+62507,Female,57.0,0,0,Yes,Private,Urban,94.63,33.0,never smoked,0
+29232,Female,56.0,0,0,Yes,Private,Urban,114.33,30.7,smokes,0
+46699,Female,18.0,0,0,No,Private,Rural,78.57,34.4,Unknown,0
+66333,Male,52.0,0,0,Yes,Self-employed,Urban,78.4,64.8,never smoked,0
+3494,Female,80.0,0,0,Yes,Private,Rural,102.9,26.7,Unknown,0
+6805,Male,57.0,0,0,No,Private,Urban,107.74,28.4,Unknown,0
+39714,Male,12.0,0,0,No,children,Urban,64.08,18.2,Unknown,0
+31125,Female,50.0,0,0,Yes,Private,Rural,94.22,24.8,never smoked,0
+6852,Female,52.0,1,0,Yes,Self-employed,Rural,104.45,,never smoked,0
+8332,Female,50.0,0,0,Yes,Private,Rural,206.25,53.4,formerly smoked,0
+58138,Male,57.0,0,0,Yes,Private,Rural,111.64,31.5,never smoked,0
+12990,Male,9.0,0,0,No,children,Rural,84.17,17.4,Unknown,0
+57983,Male,50.0,0,0,Yes,Govt_job,Urban,227.89,38.8,formerly smoked,0
+38560,Male,47.0,0,0,Yes,Private,Rural,72.2,33.0,Unknown,0
+50363,Female,73.0,1,0,Yes,Private,Rural,60.98,29.9,formerly smoked,0
+44155,Female,55.0,0,0,Yes,Govt_job,Urban,89.43,26.1,formerly smoked,0
+11394,Male,73.0,0,1,Yes,Private,Rural,82.15,31.6,formerly smoked,0
+52220,Female,26.0,0,0,No,Private,Rural,154.08,20.2,formerly smoked,0
+37608,Female,38.0,0,0,No,Private,Urban,218.6,47.9,formerly smoked,0
+39120,Female,82.0,0,0,No,Self-employed,Urban,82.21,26.0,never smoked,0
+49465,Female,13.0,0,0,No,children,Urban,70.16,21.2,never smoked,0
+6793,Female,55.0,0,0,Yes,Private,Rural,109.59,26.2,formerly smoked,0
+69010,Male,78.0,0,0,Yes,Private,Rural,83.2,21.2,formerly smoked,0
+5477,Male,63.0,0,1,Yes,Self-employed,Urban,82.72,,never smoked,0
+41097,Female,23.0,1,0,No,Private,Urban,70.03,78.0,smokes,0
+72911,Female,57.0,1,0,Yes,Private,Rural,129.54,60.9,smokes,0
+30953,Male,75.0,1,1,Yes,Private,Rural,221.43,32.5,Unknown,0
+11973,Female,10.0,0,0,No,children,Urban,124.6,18.6,Unknown,0
+39769,Female,59.0,0,0,Yes,Self-employed,Urban,82.14,35.6,smokes,0
+40791,Female,13.0,0,0,No,children,Rural,63.26,19.5,Unknown,0
+65473,Male,23.0,0,0,No,Private,Urban,61.96,22.0,smokes,0
+32726,Female,41.0,0,0,No,Private,Urban,76.08,25.1,never smoked,0
+29281,Male,76.0,1,0,Yes,Self-employed,Rural,194.37,27.0,formerly smoked,1
+31850,Female,17.0,0,0,No,Private,Urban,89.58,22.8,Unknown,0
+50499,Female,32.0,0,0,Yes,Private,Rural,71.8,26.5,never smoked,0
+58631,Male,73.0,1,0,Yes,Self-employed,Urban,194.99,32.8,never smoked,1
+29078,Male,39.0,0,0,Yes,Govt_job,Rural,73.07,26.8,smokes,0
+32687,Male,37.0,0,0,Yes,Private,Rural,78.42,29.9,never smoked,0
+69259,Female,77.0,0,0,Yes,Private,Rural,100.85,29.5,smokes,0
+31849,Female,49.0,0,0,Yes,Private,Rural,107.4,26.7,smokes,0
+47917,Female,82.0,1,0,No,Private,Rural,61.47,22.9,never smoked,0
+33674,Female,47.0,0,0,Yes,Private,Urban,104.7,20.7,smokes,0
+47558,Male,62.0,1,1,Yes,Private,Urban,123.95,34.8,formerly smoked,0
+35330,Male,30.0,0,0,Yes,Private,Urban,81.25,27.3,smokes,0
+10826,Female,39.0,0,0,Yes,Self-employed,Urban,82.85,22.9,smokes,0
+58820,Male,56.0,0,0,Yes,Private,Rural,86.36,27.7,formerly smoked,0
+43024,Male,9.0,0,0,No,children,Rural,76.88,18.0,Unknown,0
+47144,Female,74.0,0,0,Yes,Self-employed,Urban,88.62,28.5,formerly smoked,0
+39139,Female,57.0,0,0,Yes,Private,Rural,84.18,35.5,never smoked,0
+48693,Female,43.0,0,0,Yes,Private,Rural,91.9,32.7,formerly smoked,0
+46454,Female,79.0,0,0,Yes,Govt_job,Urban,63.57,32.4,never smoked,0
+65481,Male,57.0,0,0,Yes,Private,Urban,90.4,26.5,never smoked,0
+57609,Male,1.64,0,0,No,children,Urban,170.88,20.8,Unknown,0
+11238,Male,46.0,0,0,Yes,Private,Rural,92.81,30.8,Unknown,0
+41930,Male,15.0,0,0,No,Private,Rural,144.15,24.1,never smoked,0
+4961,Male,56.0,0,0,Yes,Govt_job,Urban,122.39,30.3,Unknown,0
+68438,Female,51.0,0,0,Yes,Private,Rural,90.78,32.3,never smoked,0
+5111,Female,54.0,1,0,Yes,Govt_job,Urban,180.93,27.7,never smoked,1
+11727,Male,39.0,0,0,Yes,Self-employed,Urban,74.29,29.3,smokes,0
+70823,Female,10.0,0,0,No,children,Urban,57.28,15.4,never smoked,0
+52882,Female,60.0,0,0,Yes,Govt_job,Rural,111.79,23.6,smokes,0
+45817,Female,59.0,0,0,Yes,Private,Rural,60.64,20.0,never smoked,0
+53821,Male,18.0,0,0,No,Private,Rural,100.47,31.9,never smoked,0
+41148,Male,71.0,0,1,Yes,Private,Urban,70.71,30.1,never smoked,0
+51935,Male,16.0,0,0,No,Never_worked,Urban,59.99,28.2,never smoked,0
+72497,Female,5.0,0,0,No,children,Rural,111.92,23.6,Unknown,0
+69089,Female,40.0,0,0,Yes,Private,Rural,83.3,32.0,smokes,0
+51109,Female,6.0,0,0,No,children,Rural,119.88,17.8,Unknown,0
+53695,Male,70.0,0,0,Yes,Govt_job,Urban,81.59,27.2,never smoked,0
+5774,Male,59.0,0,0,Yes,Private,Urban,223.16,,Unknown,0
+69222,Male,0.24,0,0,No,children,Urban,57.09,19.4,Unknown,0
+37830,Female,29.0,0,0,No,Private,Urban,73.67,21.0,Unknown,0
+55975,Female,44.0,0,0,Yes,Govt_job,Rural,70.48,20.2,never smoked,0
+44224,Male,15.0,0,0,No,Private,Rural,61.61,27.8,never smoked,0
+11024,Female,76.0,0,0,Yes,Private,Rural,97.9,31.3,formerly smoked,0
+57109,Female,12.0,0,0,No,children,Rural,81.66,23.5,formerly smoked,0
+7411,Male,82.0,0,0,Yes,Private,Urban,214.42,33.9,formerly smoked,0
+13191,Female,24.0,0,0,No,Private,Rural,120.77,16.9,never smoked,0
+62951,Female,32.0,0,0,Yes,Private,Rural,61.83,31.3,never smoked,0
+18636,Female,26.0,0,0,Yes,Govt_job,Urban,72.56,35.4,never smoked,0
+25443,Male,50.0,0,0,No,Private,Urban,160.94,26.7,smokes,0
+16129,Female,81.0,0,0,Yes,Self-employed,Urban,93.13,26.1,Unknown,0
+57668,Male,49.0,0,0,Yes,Govt_job,Urban,72.2,30.3,formerly smoked,0
+7356,Male,75.0,0,0,Yes,Private,Urban,104.72,,Unknown,1
+49480,Female,31.0,0,0,No,Private,Urban,106.13,22.4,never smoked,0
+69750,Female,77.0,0,0,Yes,Self-employed,Urban,151.23,24.9,never smoked,0
+42203,Male,59.0,0,0,Yes,Private,Urban,117.92,29.4,smokes,0
+43892,Female,73.0,0,0,Yes,Private,Rural,81.78,28.8,never smoked,0
+66677,Male,78.0,0,0,Yes,Private,Rural,80.09,21.8,never smoked,0
+34416,Male,23.0,0,0,No,Private,Urban,74.34,23.5,never smoked,0
+34400,Female,77.0,1,0,Yes,Self-employed,Rural,176.71,33.2,never smoked,0
+61743,Male,28.0,0,0,No,Govt_job,Urban,118.66,32.3,never smoked,0
+19032,Female,15.0,0,0,No,Private,Rural,79.2,22.4,never smoked,0
+14711,Male,63.0,0,0,Yes,Self-employed,Urban,82.08,32.2,formerly smoked,0
+39105,Male,74.0,0,0,Yes,Self-employed,Rural,60.98,,never smoked,1
+49883,Female,41.0,0,0,Yes,Private,Rural,65.4,36.9,formerly smoked,0
+64435,Female,37.0,0,0,Yes,Private,Rural,76.03,33.2,never smoked,0
+56669,Male,81.0,0,0,Yes,Private,Urban,186.21,29.0,formerly smoked,1
+56282,Male,13.0,0,0,No,Private,Rural,90.6,16.9,never smoked,0
+19773,Female,52.0,0,0,Yes,Private,Rural,96.59,26.4,never smoked,1
+69510,Male,39.0,0,0,Yes,Private,Rural,121.32,26.8,never smoked,0
+17608,Female,55.0,0,0,Yes,Govt_job,Urban,118.82,29.0,formerly smoked,0
+6976,Female,40.0,0,0,Yes,Private,Urban,93.97,23.6,never smoked,0
+61924,Male,8.0,0,0,No,children,Rural,133.63,18.8,Unknown,0
+45139,Female,79.0,0,1,Yes,Private,Rural,201.38,31.1,never smoked,0
+63577,Female,50.0,1,0,Yes,Self-employed,Rural,68.8,34.9,never smoked,0
+69379,Female,64.0,1,0,Yes,Self-employed,Urban,93.78,24.4,never smoked,0
+70783,Female,43.0,0,0,Yes,Private,Urban,96.3,28.1,smokes,0
+55386,Male,42.0,0,0,Yes,Private,Rural,123.15,26.1,smokes,0
+69668,Female,33.0,0,0,Yes,Self-employed,Rural,112.94,43.0,never smoked,0
+25405,Male,62.0,0,0,Yes,Govt_job,Urban,187.52,57.7,never smoked,0
+63565,Female,2.0,0,0,No,children,Rural,125.68,20.1,Unknown,0
+38804,Male,74.0,0,0,Yes,Private,Rural,83.5,26.7,Unknown,0
+53126,Female,0.64,0,0,No,children,Urban,62.27,17.3,Unknown,0
+25904,Female,76.0,1,1,Yes,Self-employed,Urban,199.86,,smokes,1
+38316,Male,55.0,0,0,Yes,Private,Rural,118.69,26.4,Unknown,0
+33187,Female,6.0,0,0,No,children,Urban,201.25,,Unknown,0
+15324,Female,40.0,0,0,No,Private,Urban,86.1,23.9,Unknown,0
+4280,Female,51.0,0,0,Yes,Govt_job,Rural,105.52,30.8,never smoked,0
+22417,Female,5.0,0,0,No,children,Rural,80.93,24.8,Unknown,0
+61017,Female,12.0,0,0,No,children,Urban,126.32,21.6,Unknown,0
+13270,Female,40.0,0,0,No,Govt_job,Urban,90.21,41.2,never smoked,0
+2109,Female,8.0,0,0,No,children,Urban,125.14,29.7,Unknown,0
+35584,Male,61.0,0,0,Yes,Private,Rural,89.75,25.4,never smoked,0
+52457,Female,58.0,0,1,Yes,Private,Rural,144.16,26.0,smokes,0
+32826,Male,6.0,0,0,No,children,Urban,87.74,17.7,Unknown,0
+50785,Male,17.0,0,0,No,Private,Rural,83.26,32.9,never smoked,0
+16077,Male,63.0,0,1,Yes,Self-employed,Urban,116.69,34.5,formerly smoked,1
+8208,Male,19.0,0,0,No,Private,Rural,95.18,24.9,smokes,0
+35295,Male,69.0,0,0,Yes,Private,Urban,65.08,27.3,formerly smoked,0
+24058,Female,50.0,0,0,Yes,Govt_job,Rural,77.67,25.6,never smoked,0
+54540,Male,46.0,0,0,Yes,Private,Rural,138.07,24.3,never smoked,0
+4169,Female,37.0,0,0,No,Private,Rural,92.78,54.2,never smoked,0
+48769,Female,38.0,0,0,Yes,Private,Rural,61.88,29.0,Unknown,0
+36704,Female,29.0,0,0,Yes,Self-employed,Rural,74.33,29.9,smokes,0
+37808,Female,34.0,0,0,No,Govt_job,Urban,226.28,38.4,Unknown,0
+16817,Female,78.0,1,0,No,Private,Urban,130.54,20.1,never smoked,1
+8111,Female,23.0,0,0,No,Private,Rural,104.09,27.9,Unknown,0
+14089,Female,46.0,0,0,Yes,Private,Urban,78.79,42.4,smokes,0
+51584,Male,26.0,0,0,No,Private,Urban,71.25,30.3,smokes,0
+19043,Female,40.0,0,0,No,Private,Rural,99.0,25.0,never smoked,0
+6132,Male,4.0,0,0,No,children,Urban,103.34,18.8,Unknown,0
+69312,Female,48.0,0,0,Yes,Self-employed,Urban,99.29,31.2,never smoked,0
+5074,Male,24.0,0,0,No,Private,Rural,200.14,37.7,smokes,0
+42856,Male,61.0,0,0,Yes,Private,Urban,99.16,26.6,smokes,0
+34900,Male,13.0,0,0,No,Never_worked,Urban,85.08,14.6,Unknown,0
+4651,Male,78.0,0,0,Yes,Private,Rural,78.03,23.9,formerly smoked,1
+9489,Female,65.0,0,0,Yes,Private,Urban,84.75,21.4,Unknown,0
+58466,Male,77.0,0,0,Yes,Private,Rural,98.84,27.3,Unknown,0
+44510,Female,56.0,0,0,Yes,Private,Rural,131.63,27.6,never smoked,0
+33585,Female,64.0,0,0,Yes,Private,Rural,250.2,27.4,Unknown,0
+64912,Female,59.0,0,0,Yes,Self-employed,Rural,201.45,43.8,smokes,0
+31112,Male,80.0,0,1,Yes,Private,Rural,105.92,32.5,never smoked,1
+21967,Female,20.0,0,0,Yes,Private,Urban,77.96,26.3,smokes,0
+61376,Male,38.0,0,0,Yes,Private,Urban,215.69,38.6,formerly smoked,0
+11539,Female,24.0,1,0,No,Private,Urban,107.22,35.3,smokes,0
+4850,Male,51.0,0,0,Yes,Private,Rural,112.79,27.2,never smoked,0
+35432,Female,36.0,0,0,Yes,Private,Rural,95.36,25.1,never smoked,0
+53646,Female,33.0,1,0,No,Private,Rural,97.87,,smokes,0
+5157,Male,79.0,1,0,Yes,Self-employed,Urban,83.07,26.5,smokes,0
+47861,Male,81.0,0,0,Yes,Private,Urban,165.47,28.1,Unknown,0
+53195,Male,30.0,0,0,No,Private,Urban,141.8,31.9,never smoked,0
+46488,Male,35.0,0,0,Yes,Private,Rural,69.22,42.8,never smoked,0
+46923,Male,64.0,0,1,Yes,Private,Rural,82.89,29.5,never smoked,0
+53967,Female,80.0,0,0,Yes,Self-employed,Rural,72.61,27.6,never smoked,0
+49624,Male,69.0,0,0,Yes,Private,Urban,98.92,23.9,formerly smoked,0
+49645,Male,58.0,0,0,No,Private,Rural,76.22,22.2,formerly smoked,0
+16582,Male,26.0,0,0,Yes,Private,Rural,95.57,30.7,smokes,0
+11232,Male,47.0,0,0,Yes,Private,Rural,93.55,31.4,never smoked,0
+65407,Female,64.0,0,0,Yes,Self-employed,Rural,65.46,32.5,formerly smoked,0
+65460,Female,32.0,0,0,Yes,Private,Rural,62.6,25.1,formerly smoked,0
+36850,Male,36.0,0,0,Yes,Govt_job,Urban,57.59,32.8,Unknown,0
+53346,Female,24.0,0,0,Yes,Private,Rural,156.43,27.0,formerly smoked,0
+47321,Female,74.0,0,0,Yes,Private,Rural,83.58,18.2,never smoked,0
+33412,Female,15.0,0,0,No,Private,Rural,87.1,18.3,never smoked,0
+71221,Female,42.0,0,0,Yes,Govt_job,Urban,99.94,33.4,never smoked,0
+3509,Male,47.0,1,0,Yes,Private,Urban,110.25,44.3,never smoked,0
+14417,Male,65.0,1,0,Yes,Private,Rural,79.17,29.6,Unknown,0
+6372,Female,32.0,0,0,Yes,Private,Urban,97.14,55.9,never smoked,0
+20185,Female,61.0,0,0,Yes,Self-employed,Rural,69.77,29.9,never smoked,0
+50210,Male,79.0,0,0,Yes,Self-employed,Urban,113.41,35.0,never smoked,0
+70884,Female,34.0,0,0,Yes,Private,Urban,79.8,37.4,smokes,0
+1534,Female,61.0,0,0,Yes,Private,Rural,99.35,26.1,smokes,0
+27796,Female,66.0,0,0,Yes,Private,Urban,102.07,16.7,smokes,0
+84,Male,55.0,0,0,Yes,Private,Urban,89.17,31.5,never smoked,0
+63936,Female,30.0,0,0,No,Private,Urban,69.67,35.8,formerly smoked,0
+4057,Male,71.0,0,0,Yes,Private,Urban,198.21,27.3,formerly smoked,0
+121,Female,38.0,0,0,Yes,Private,Urban,91.44,,Unknown,0
+63409,Female,49.0,0,0,Yes,Private,Urban,63.71,33.8,smokes,0
+43549,Female,40.0,1,0,Yes,Private,Rural,81.59,27.2,never smoked,0
+35229,Male,57.0,0,0,Yes,Govt_job,Urban,71.71,35.2,smokes,0
+66647,Male,31.0,0,0,Yes,Private,Rural,100.52,29.9,Unknown,0
+21857,Female,5.0,0,0,No,children,Urban,84.91,26.1,Unknown,0
+7586,Male,24.0,0,0,No,Self-employed,Rural,111.33,29.6,formerly smoked,0
+17835,Female,43.0,0,0,No,Self-employed,Rural,92.4,22.7,Unknown,0
+19723,Female,35.0,0,0,Yes,Self-employed,Rural,82.99,30.6,never smoked,0
+42309,Female,42.0,0,0,Yes,Private,Urban,73.37,,smokes,0
+4740,Female,24.0,0,0,No,Private,Urban,86.35,32.7,never smoked,0
+9648,Female,71.0,0,1,Yes,Private,Urban,170.95,35.2,never smoked,0
+62272,Female,78.0,0,0,Yes,Private,Urban,119.03,31.0,never smoked,0
+2218,Male,42.0,0,0,Yes,Private,Rural,107.83,35.3,smokes,0
+55526,Male,46.0,0,0,Yes,Govt_job,Urban,58.63,35.3,never smoked,0
+30677,Female,3.0,0,0,No,children,Urban,82.91,19.9,Unknown,0
+21886,Female,40.0,0,0,Yes,Private,Urban,71.2,27.1,never smoked,0
+25627,Male,81.0,1,0,Yes,Self-employed,Urban,231.19,31.6,formerly smoked,0
+16136,Female,78.0,0,0,Yes,Self-employed,Urban,84.21,33.7,never smoked,0
+47802,Male,28.0,0,0,No,Private,Urban,256.74,23.4,formerly smoked,0
+38980,Male,61.0,0,0,Yes,Govt_job,Urban,107.33,26.4,formerly smoked,0
+19939,Female,46.0,0,0,Yes,Private,Rural,78.75,37.8,formerly smoked,0
+23946,Female,3.0,0,0,No,children,Rural,97.31,22.2,Unknown,0
+71420,Male,27.0,0,0,No,Govt_job,Rural,65.12,41.1,smokes,0
+61408,Male,23.0,0,0,No,Never_worked,Urban,125.26,18.7,never smoked,0
+58600,Male,65.0,1,0,Yes,Private,Urban,112.09,29.5,never smoked,0
+8960,Female,42.0,0,0,No,Self-employed,Rural,73.41,56.0,smokes,0
+67,Female,17.0,0,0,No,Private,Urban,92.97,,formerly smoked,0
+63450,Female,64.0,0,0,Yes,Self-employed,Rural,128.04,34.0,smokes,0
+3361,Female,39.0,0,0,Yes,Govt_job,Rural,97.89,23.6,never smoked,0
+33404,Male,35.0,0,0,Yes,Private,Urban,89.32,36.7,Unknown,0
+27436,Male,12.0,0,0,No,children,Urban,110.33,20.4,Unknown,0
+69972,Female,55.0,0,0,Yes,Private,Rural,56.11,32.4,formerly smoked,0
+26692,Female,38.0,0,0,Yes,Govt_job,Rural,76.82,27.3,never smoked,0
+59250,Female,78.0,0,0,Yes,Govt_job,Urban,58.88,35.8,Unknown,0
+57968,Female,11.0,0,0,No,children,Urban,107.18,27.6,Unknown,0
+63455,Male,26.0,0,0,Yes,Private,Urban,70.61,20.0,never smoked,0
+43134,Female,16.0,0,0,No,Private,Rural,155.43,27.3,never smoked,0
+32571,Male,33.0,0,0,Yes,Private,Urban,85.27,25.8,Unknown,0
+56185,Female,28.0,0,0,No,Private,Urban,73.2,26.5,smokes,0
+70928,Male,39.0,0,0,Yes,Govt_job,Urban,73.62,33.4,Unknown,0
+70970,Female,17.0,0,0,No,Self-employed,Urban,82.18,23.4,Unknown,0
+53882,Male,74.0,1,1,Yes,Private,Rural,70.09,27.4,never smoked,1
+53748,Male,77.0,0,0,Yes,Self-employed,Urban,57.6,32.2,Unknown,0
+35231,Male,62.0,0,0,Yes,Govt_job,Urban,91.68,26.5,Unknown,0
+14658,Female,37.0,0,0,Yes,Private,Rural,77.1,55.9,Unknown,0
+13723,Female,65.0,0,0,Yes,Private,Urban,82.26,19.8,formerly smoked,0
+1731,Female,80.0,0,0,No,Self-employed,Urban,72.71,29.9,never smoked,0
+44010,Female,3.0,0,0,No,children,Urban,57.33,16.8,Unknown,0
+65413,Female,64.0,0,0,Yes,Private,Urban,55.64,43.4,never smoked,0
+24201,Male,33.0,0,0,Yes,Private,Rural,93.8,23.9,never smoked,0
+54383,Male,60.0,0,0,Yes,Private,Rural,101.34,32.8,never smoked,0
+62716,Female,59.0,0,0,Yes,Self-employed,Urban,81.64,32.8,Unknown,0
+72836,Female,59.0,0,0,Yes,Private,Urban,65.98,31.1,Unknown,0
+50277,Female,51.0,0,0,Yes,Self-employed,Rural,67.97,29.4,smokes,0
+24727,Male,20.0,0,0,No,Private,Rural,117.98,30.9,smokes,0
+63043,Female,27.0,0,0,No,Private,Urban,61.8,26.8,formerly smoked,0
+3113,Female,33.0,0,0,No,Private,Rural,80.21,27.8,formerly smoked,0
+54071,Female,51.0,0,0,Yes,Private,Urban,105.36,43.7,Unknown,0
+16902,Female,70.0,0,1,Yes,Self-employed,Urban,240.69,,smokes,0
+12985,Female,69.0,0,0,Yes,Self-employed,Rural,225.47,36.9,never smoked,0
+11605,Female,26.0,0,0,No,Private,Rural,108.2,26.2,never smoked,0
+71061,Male,59.0,0,0,Yes,Govt_job,Urban,70.04,31.4,never smoked,0
+18437,Male,26.0,0,0,No,Private,Urban,85.92,35.6,smokes,0
+56245,Female,21.0,0,0,No,Private,Urban,112.07,28.2,never smoked,0
+61528,Female,45.0,0,0,Yes,Govt_job,Urban,73.71,34.1,never smoked,0
+51809,Female,60.0,0,0,Yes,Self-employed,Rural,103.17,32.1,formerly smoked,0
+32638,Female,73.0,1,0,Yes,Self-employed,Rural,124.78,35.6,never smoked,0
+66204,Male,59.0,0,0,Yes,Private,Urban,111.04,32.0,formerly smoked,1
+66400,Male,78.0,0,0,Yes,Private,Urban,237.75,,formerly smoked,1
+966,Female,70.0,1,0,Yes,Self-employed,Rural,103.89,30.0,never smoked,0
+49620,Male,75.0,0,0,Yes,Private,Rural,75.47,24.5,formerly smoked,0
+37029,Male,5.0,0,0,No,children,Rural,97.64,17.0,Unknown,0
+11816,Female,46.0,0,0,Yes,Self-employed,Urban,71.12,27.3,never smoked,0
+67941,Female,29.0,0,0,No,Self-employed,Rural,62.47,34.4,formerly smoked,0
+29104,Female,19.0,0,0,No,Private,Urban,110.7,38.5,never smoked,0
+20541,Female,52.0,1,0,Yes,Private,Rural,81.03,32.6,never smoked,0
+64597,Female,33.0,0,0,Yes,Private,Rural,73.2,28.9,Unknown,0
+28333,Female,79.0,1,1,Yes,Self-employed,Urban,200.28,30.0,formerly smoked,0
+26723,Female,57.0,0,0,Yes,Private,Urban,83.14,31.9,never smoked,0
+3352,Male,78.0,1,0,Yes,Self-employed,Urban,93.13,,formerly smoked,1
+44993,Female,79.0,1,0,No,Govt_job,Urban,98.02,22.3,formerly smoked,1
+7524,Female,69.0,0,1,Yes,Private,Urban,207.6,,never smoked,0
+27279,Male,1.72,0,0,No,children,Urban,90.46,22.5,Unknown,0
+66818,Male,75.0,0,0,Yes,Govt_job,Urban,98.91,24.4,never smoked,0
+21534,Male,67.0,0,0,Yes,Private,Urban,260.85,,Unknown,0
+60663,Male,70.0,1,0,Yes,Private,Rural,74.04,29.1,never smoked,0
+12465,Female,52.0,0,0,No,Private,Rural,88.04,42.1,never smoked,0
+22414,Female,17.0,0,0,No,Private,Rural,70.03,23.1,smokes,0
+72824,Male,46.0,0,0,Yes,Private,Rural,59.05,28.3,formerly smoked,0
+3003,Female,51.0,0,0,Yes,Govt_job,Rural,85.59,30.5,never smoked,0
+41263,Female,16.0,0,0,No,Private,Urban,75.06,23.5,never smoked,0
+17013,Male,78.0,1,0,No,Private,Urban,113.01,24.0,never smoked,1
+61827,Male,80.0,0,0,Yes,Self-employed,Rural,196.08,31.0,formerly smoked,0
+58235,Male,76.0,0,0,Yes,Private,Urban,58.65,25.6,smokes,0
+39984,Female,42.0,0,0,Yes,Govt_job,Rural,157.67,22.7,formerly smoked,0
+70676,Female,76.0,0,0,Yes,Govt_job,Rural,62.57,,formerly smoked,1
+34764,Female,33.0,0,0,Yes,Private,Rural,80.82,40.3,never smoked,0
+28291,Female,79.0,0,1,Yes,Private,Urban,226.98,29.8,never smoked,1
+8168,Female,34.0,0,0,Yes,Private,Rural,112.54,23.4,formerly smoked,0
+62756,Female,69.0,0,0,Yes,Self-employed,Urban,113.1,22.7,never smoked,0
+58936,Male,59.0,0,0,Yes,Private,Rural,203.16,43.4,Unknown,0
+37451,Female,47.0,0,0,Yes,Govt_job,Rural,108.56,27.3,formerly smoked,0
+53909,Female,53.0,1,0,Yes,Private,Urban,202.66,34.1,smokes,0
+17771,Female,64.0,1,0,Yes,Govt_job,Urban,211.12,22.0,never smoked,0
+56567,Male,14.0,0,0,No,children,Urban,60.7,18.6,Unknown,0
+66752,Female,79.0,0,0,Yes,Govt_job,Urban,93.89,30.4,never smoked,0
+579,Male,9.0,0,0,No,children,Urban,71.88,17.5,Unknown,0
+29863,Male,44.0,0,0,No,Private,Urban,103.44,28.0,never smoked,0
+37832,Female,14.0,0,0,No,children,Rural,129.53,21.3,never smoked,0
+45945,Male,46.0,0,1,Yes,Private,Urban,178.76,24.1,never smoked,0
+60983,Male,70.0,0,0,Yes,Private,Urban,64.41,29.4,smokes,0
+15104,Female,26.0,0,0,Yes,Private,Rural,88.79,24.9,never smoked,0
+33478,Female,56.0,0,0,No,Private,Rural,74.35,26.6,smokes,0
+13223,Female,53.0,0,0,Yes,Govt_job,Rural,86.39,30.2,never smoked,0
+30214,Male,23.0,0,0,No,Private,Rural,83.86,19.5,never smoked,0
+40124,Male,72.0,0,0,Yes,Self-employed,Rural,72.09,,smokes,0
+56979,Male,55.0,0,0,Yes,Private,Rural,61.42,33.3,smokes,0
+6928,Male,44.0,0,0,Yes,Private,Rural,119.01,29.5,never smoked,0
+58209,Female,22.0,0,0,No,Private,Urban,140.14,21.1,never smoked,0
+14551,Female,69.0,0,0,No,Private,Urban,102.48,30.2,formerly smoked,0
+3720,Female,2.0,0,0,No,children,Rural,80.3,21.2,Unknown,0
+34448,Female,56.0,0,0,Yes,Self-employed,Urban,242.94,41.2,never smoked,0
+1329,Female,43.0,0,0,No,Govt_job,Rural,101.35,32.2,never smoked,0
+65333,Female,31.0,0,0,Yes,Private,Rural,96.03,24.1,Unknown,0
+24018,Male,55.0,0,0,Yes,Private,Rural,86.58,34.2,never smoked,0
+64202,Male,50.0,0,0,Yes,Private,Rural,119.77,23.5,Unknown,0
+41210,Male,44.0,0,0,No,Self-employed,Urban,105.76,32.4,formerly smoked,0
+71784,Male,17.0,0,0,No,Private,Rural,63.82,19.4,smokes,0
+24876,Male,35.0,0,0,Yes,Private,Urban,82.81,23.9,never smoked,0
+6948,Male,8.0,0,0,No,children,Urban,91.53,18.0,Unknown,0
+6563,Female,44.0,0,0,No,Private,Rural,78.18,32.2,never smoked,0
+9262,Female,31.0,0,0,Yes,Private,Rural,76.26,35.6,never smoked,0
+50222,Female,22.0,0,0,No,Private,Rural,74.99,27.9,smokes,0
+31563,Female,38.0,0,0,Yes,Private,Rural,101.45,,formerly smoked,1
+64750,Female,22.0,0,0,No,Private,Rural,62.81,21.3,never smoked,0
+68995,Female,48.0,1,0,No,Private,Rural,118.14,,formerly smoked,0
+55680,Male,13.0,0,0,No,children,Urban,114.84,18.3,Unknown,0
+1210,Female,68.0,0,0,Yes,Private,Rural,211.06,39.3,Unknown,1
+12687,Male,1.0,0,0,No,children,Urban,101.31,18.3,Unknown,0
+63029,Male,32.0,0,0,Yes,Private,Rural,115.86,33.3,never smoked,0
+2885,Male,72.0,1,0,Yes,Private,Rural,231.71,,Unknown,0
+27849,Female,5.0,0,0,No,children,Urban,122.25,16.7,Unknown,0
+71379,Female,45.0,0,0,Yes,Govt_job,Urban,113.63,27.5,smokes,0
+26604,Female,18.0,0,0,No,Private,Rural,107.82,26.0,never smoked,0
+53957,Male,71.0,0,0,Yes,Self-employed,Urban,96.04,45.1,formerly smoked,0
+32016,Male,71.0,1,0,Yes,Private,Rural,186.95,33.3,never smoked,0
+55545,Female,66.0,0,0,Yes,Self-employed,Rural,74.88,32.6,never smoked,0
+19931,Male,66.0,0,0,Yes,Self-employed,Rural,106.1,31.5,smokes,0
+6599,Male,64.0,1,0,Yes,Self-employed,Rural,85.66,28.5,never smoked,0
+23046,Female,43.0,0,0,Yes,Self-employed,Urban,98.09,17.3,never smoked,0
+71322,Female,38.0,0,0,Yes,Private,Rural,196.2,32.8,never smoked,0
+29792,Female,49.0,0,0,Yes,Private,Rural,85.23,25.4,Unknown,0
+70992,Female,8.0,0,0,No,children,Urban,74.42,22.5,Unknown,0
+29380,Female,42.0,1,0,Yes,Private,Rural,89.96,35.6,never smoked,0
+63668,Male,22.0,0,0,No,Private,Rural,85.57,24.2,formerly smoked,0
+64159,Female,44.0,0,0,Yes,Private,Rural,110.41,30.5,smokes,0
+54695,Male,74.0,0,0,Yes,Private,Urban,167.13,,Unknown,1
+30186,Female,5.0,0,0,No,children,Urban,81.66,17.2,Unknown,0
+62798,Female,78.0,1,0,Yes,Private,Rural,100.54,32.1,smokes,0
+45796,Female,29.0,0,0,Yes,Private,Rural,91.45,24.2,never smoked,0
+69177,Female,79.0,0,0,Yes,Private,Rural,90.77,22.5,never smoked,0
+24256,Male,35.0,0,0,Yes,Private,Rural,108.08,30.6,formerly smoked,0
+36666,Male,14.0,0,0,No,children,Urban,57.95,17.1,Unknown,0
+66767,Female,67.0,0,0,Yes,Govt_job,Rural,94.61,28.4,smokes,0
+1953,Female,0.72,0,0,No,children,Rural,112.19,20.1,Unknown,0
+2327,Female,25.0,0,0,No,Private,Rural,76.72,21.5,Unknown,0
+27480,Male,19.0,0,0,No,Private,Rural,86.19,26.2,never smoked,0
+23459,Female,47.0,0,0,Yes,Private,Rural,75.43,36.4,smokes,0
+8598,Female,35.0,0,0,Yes,Govt_job,Urban,82.39,33.2,never smoked,0
+40181,Female,30.0,0,0,Yes,Private,Urban,61.45,36.7,smokes,0
+44047,Male,37.0,0,0,Yes,Govt_job,Rural,80.2,30.9,never smoked,0
+68371,Male,57.0,0,0,Yes,Private,Urban,134.76,29.1,Unknown,0
+56986,Male,17.0,0,0,No,Never_worked,Urban,113.25,23.4,never smoked,0
+65508,Male,80.0,0,0,Yes,Govt_job,Urban,148.72,28.7,never smoked,0
+58261,Female,66.0,0,0,Yes,Private,Rural,141.24,28.5,never smoked,0
+44965,Female,14.0,0,0,No,Self-employed,Urban,124.39,34.0,Unknown,0
+63050,Male,25.0,0,0,No,Private,Rural,96.17,22.1,Unknown,0
+23659,Female,5.0,0,0,No,children,Urban,75.86,20.0,Unknown,0
+49084,Male,20.0,0,0,No,Private,Urban,57.51,21.4,Unknown,0
+9995,Male,8.0,0,0,No,children,Urban,118.66,16.1,Unknown,0
+12738,Male,56.0,0,0,Yes,Private,Rural,81.18,26.9,never smoked,0
+68601,Female,18.0,0,0,No,Private,Urban,67.92,19.4,never smoked,0
+43124,Female,50.0,0,0,Yes,Govt_job,Urban,74.72,28.5,never smoked,0
+4591,Female,82.0,0,0,Yes,Self-employed,Rural,117.75,29.8,never smoked,0
+45658,Male,14.0,0,0,No,Private,Rural,84.41,33.9,never smoked,0
+18937,Male,79.0,0,0,Yes,Private,Rural,114.77,,formerly smoked,1
+26742,Female,68.0,0,0,Yes,Govt_job,Urban,96.75,28.4,formerly smoked,0
+5288,Male,10.0,0,0,No,children,Urban,108.08,15.6,Unknown,0
+22231,Male,58.0,0,0,Yes,Private,Urban,199.42,29.0,never smoked,0
+24381,Male,51.0,0,1,Yes,Self-employed,Urban,187.47,34.2,never smoked,0
+3623,Female,37.0,0,0,Yes,Self-employed,Urban,95.08,34.1,never smoked,0
+56546,Male,79.0,0,1,Yes,Private,Rural,129.98,22.6,formerly smoked,1
+69647,Male,30.0,0,0,No,Private,Urban,63.42,28.0,never smoked,0
+36589,Female,61.0,0,0,Yes,Self-employed,Urban,180.8,20.3,never smoked,0
+11120,Female,78.0,1,0,Yes,Private,Urban,218.46,34.3,never smoked,0
+29017,Male,2.0,0,0,No,children,Urban,93.55,23.3,Unknown,0
+55885,Male,19.0,0,0,No,Private,Urban,119.58,24.8,Unknown,0
+68131,Female,27.0,0,0,No,Private,Rural,149.95,25.9,never smoked,0
+68789,Female,28.0,0,0,No,Private,Urban,62.44,37.2,Unknown,0
+6422,Female,48.0,0,0,Yes,Self-employed,Urban,108.51,33.3,Unknown,0
+31746,Female,62.0,0,0,Yes,Private,Rural,83.85,24.5,never smoked,0
+13237,Male,57.0,0,1,Yes,Self-employed,Urban,112.37,28.4,never smoked,0
+36960,Female,79.0,0,0,Yes,Private,Rural,79.53,37.3,never smoked,0
+36857,Male,77.0,0,0,Yes,Self-employed,Rural,162.14,32.6,formerly smoked,1
+16652,Female,69.0,0,0,Yes,Self-employed,Urban,99.68,17.6,formerly smoked,0
+36431,Male,39.0,0,0,Yes,Govt_job,Rural,155.23,36.2,never smoked,0
+7559,Female,0.64,0,0,No,children,Urban,83.82,24.9,Unknown,0
+65154,Female,30.0,0,0,Yes,Private,Urban,112.19,53.4,never smoked,0
+27007,Male,14.0,0,0,No,Self-employed,Urban,187.22,29.7,Unknown,0
+448,Female,49.0,0,0,Yes,Private,Rural,107.55,,Unknown,0
+59752,Male,62.0,0,0,Yes,Private,Urban,72.5,22.5,formerly smoked,0
+16377,Male,69.0,0,0,Yes,Private,Urban,89.06,34.8,formerly smoked,0
+15061,Male,40.0,0,0,Yes,Govt_job,Rural,72.84,26.1,Unknown,0
+21971,Female,52.0,0,0,Yes,Govt_job,Rural,183.87,26.2,never smoked,0
+71279,Female,71.0,0,0,Yes,Govt_job,Urban,263.32,38.7,never smoked,1
+66490,Male,42.0,1,0,Yes,Govt_job,Urban,118.82,41.0,smokes,0
+40602,Female,22.0,0,0,No,Private,Urban,62.52,38.2,never smoked,0
+60533,Female,23.0,0,0,No,Private,Rural,91.95,23.0,Unknown,0
+65144,Female,57.0,0,0,Yes,Self-employed,Urban,98.44,33.6,Unknown,0
+11891,Male,18.0,0,0,No,Govt_job,Urban,106.54,27.0,never smoked,0
+6011,Male,9.0,0,0,No,children,Urban,78.24,15.3,Unknown,0
+6206,Female,67.0,0,0,Yes,Self-employed,Rural,90.35,28.1,Unknown,0
+34257,Male,17.0,0,0,No,Govt_job,Urban,68.91,23.0,Unknown,0
+19436,Male,56.0,0,0,Yes,Private,Rural,82.4,30.9,smokes,0
+58007,Female,36.0,0,0,Yes,Private,Urban,87.88,34.7,smokes,0
+10323,Female,66.0,0,0,Yes,Private,Urban,112.77,22.7,smokes,0
+17725,Female,10.0,0,0,No,children,Rural,93.29,20.6,Unknown,0
+41402,Male,62.0,0,0,Yes,Self-employed,Urban,78.99,45.5,never smoked,0
+11692,Female,53.0,0,0,No,Govt_job,Urban,101.81,29.4,smokes,0
+42807,Male,51.0,0,0,Yes,Govt_job,Urban,220.49,43.1,Unknown,0
+15136,Male,64.0,0,1,Yes,Private,Rural,109.88,33.9,Unknown,0
+27012,Male,32.0,0,0,No,Private,Urban,94.34,30.2,formerly smoked,0
+45864,Female,36.0,0,0,No,Private,Rural,55.58,30.0,never smoked,0
+34700,Female,56.0,1,0,No,Self-employed,Urban,87.5,20.2,formerly smoked,0
+3715,Male,55.0,0,0,Yes,Private,Rural,232.81,28.8,Unknown,0
+28952,Male,8.0,0,0,No,children,Rural,86.84,18.3,Unknown,0
+6304,Male,48.0,1,0,Yes,Self-employed,Urban,79.2,32.5,never smoked,0
+64508,Female,10.0,0,0,No,children,Urban,97.24,20.2,Unknown,0
+43454,Female,78.0,0,0,No,Self-employed,Urban,137.74,34.9,formerly smoked,0
+46363,Male,37.0,0,0,Yes,Private,Rural,66.17,26.1,never smoked,0
+44531,Male,36.0,0,0,Yes,Private,Urban,56.42,29.6,never smoked,0
+35716,Female,55.0,1,0,Yes,Private,Urban,202.67,40.4,formerly smoked,0
+57212,Male,49.0,0,0,No,Private,Urban,144.1,30.7,smokes,0
+14491,Male,38.0,0,0,Yes,Govt_job,Urban,70.53,40.9,smokes,0
+14287,Female,32.0,0,0,Yes,Private,Urban,68.66,22.6,Unknown,0
+53016,Female,1.8,0,0,No,children,Urban,130.61,14.4,Unknown,0
+2868,Female,54.0,0,0,Yes,Govt_job,Rural,102.61,32.4,Unknown,0
+28247,Male,82.0,0,0,No,Self-employed,Urban,101.57,24.3,smokes,0
+13948,Female,19.0,0,0,No,Never_worked,Urban,86.96,25.8,never smoked,0
+68407,Male,30.0,0,0,Yes,Govt_job,Urban,95.94,31.1,never smoked,0
+34336,Male,50.0,1,0,Yes,Govt_job,Rural,79.73,25.5,smokes,0
+34386,Female,43.0,0,0,Yes,Private,Rural,102.5,50.2,never smoked,0
+4077,Male,49.0,0,0,Yes,Private,Urban,219.7,53.8,Unknown,0
+57219,Female,1.64,0,0,No,children,Rural,82.49,15.1,Unknown,0
+20825,Female,53.0,0,0,Yes,Govt_job,Rural,84.9,21.6,never smoked,0
+48739,Male,47.0,0,0,Yes,Self-employed,Urban,135.19,36.0,smokes,0
+54747,Male,0.88,0,0,No,children,Rural,157.57,19.2,Unknown,0
+53943,Female,3.0,0,0,No,children,Rural,111.21,18.3,Unknown,0
+65252,Female,63.0,0,0,Yes,Govt_job,Rural,55.57,26.8,formerly smoked,0
+71957,Female,35.0,0,0,Yes,Private,Rural,58.72,40.0,smokes,0
+67465,Female,20.0,0,0,No,Private,Rural,117.59,17.1,never smoked,0
+52454,Male,9.0,0,0,No,children,Rural,121.8,18.7,Unknown,0
+8085,Male,18.0,0,0,No,Private,Rural,143.45,32.0,smokes,0
+31461,Female,48.0,0,1,Yes,Self-employed,Urban,101.22,,formerly smoked,0
+33560,Female,81.0,0,1,Yes,Govt_job,Urban,90.11,28.6,never smoked,0
+44112,Female,51.0,0,0,Yes,Self-employed,Urban,219.92,33.5,formerly smoked,0
+50650,Male,30.0,0,0,No,Private,Rural,82.56,25.4,formerly smoked,0
+32221,Male,60.0,0,1,Yes,Private,Urban,91.92,35.9,smokes,1
+18366,Female,29.0,0,0,Yes,Self-employed,Rural,73.58,29.8,Unknown,0
+210,Male,81.0,0,0,Yes,Self-employed,Rural,91.54,31.4,never smoked,1
+40568,Female,10.0,0,0,No,children,Urban,82.59,18.6,formerly smoked,0
+6574,Female,35.0,0,0,Yes,Self-employed,Urban,103.29,20.6,never smoked,0
+12396,Female,20.0,0,0,No,Private,Urban,100.81,26.8,Unknown,0
+34558,Male,33.0,0,0,Yes,Private,Rural,219.97,39.6,never smoked,0
+46903,Female,62.0,0,0,Yes,Private,Urban,56.74,28.9,never smoked,0
+19165,Male,33.0,0,0,Yes,Private,Urban,83.12,23.4,Unknown,0
+12668,Male,68.0,0,0,Yes,Self-employed,Urban,195.43,28.9,never smoked,0
+52089,Female,23.0,0,0,No,Private,Urban,126.67,28.7,smokes,0
+35276,Female,6.0,0,0,No,children,Rural,84.1,19.8,Unknown,0
+51907,Female,50.0,0,0,Yes,Self-employed,Urban,121.14,22.8,never smoked,0
+61013,Male,52.0,0,0,No,Private,Rural,69.37,36.2,Unknown,0
+2544,Male,78.0,0,0,Yes,Private,Urban,208.85,24.4,formerly smoked,0
+69936,Female,39.0,0,0,Yes,Private,Urban,101.52,41.8,never smoked,0
+71396,Male,3.0,0,0,No,children,Urban,105.34,15.5,Unknown,0
+65256,Female,57.0,0,0,Yes,Self-employed,Rural,128.28,34.2,never smoked,0
+17869,Female,53.0,0,0,Yes,Private,Urban,94.78,30.1,Unknown,0
+60902,Male,5.0,0,0,No,children,Rural,71.43,19.3,Unknown,0
+22159,Female,54.0,1,0,No,Private,Urban,97.06,28.5,formerly smoked,0
+9948,Male,6.0,0,0,No,children,Urban,83.16,15.1,Unknown,0
+11327,Female,82.0,0,0,Yes,Self-employed,Urban,79.96,27.0,formerly smoked,0
+34026,Female,60.0,0,0,Yes,Private,Rural,207.84,38.9,never smoked,0
+18890,Male,69.0,1,0,Yes,Private,Rural,87.93,33.6,never smoked,0
+13365,Male,50.0,0,0,Yes,Private,Rural,77.65,24.4,smokes,0
+10166,Male,66.0,0,0,No,Govt_job,Rural,77.91,39.1,Unknown,0
+17950,Male,56.0,0,0,Yes,Private,Urban,96.93,25.0,smokes,0
+6802,Female,37.0,0,0,Yes,Private,Urban,74.51,29.5,Unknown,0
+48455,Female,37.0,0,0,Yes,Private,Urban,60.05,24.1,Unknown,0
+13116,Male,49.0,0,0,Yes,Private,Urban,87.06,28.3,never smoked,0
+60926,Male,5.0,0,0,No,children,Urban,79.89,13.8,Unknown,0
+48755,Male,27.0,0,0,Yes,Private,Rural,104.48,36.4,smokes,0
+21036,Female,47.0,0,0,Yes,Private,Urban,131.43,24.3,never smoked,0
+12741,Female,25.0,0,0,Yes,Private,Rural,97.52,45.5,formerly smoked,0
+12279,Male,74.0,0,0,Yes,Private,Urban,227.94,26.0,Unknown,0
+69285,Female,45.0,0,0,Yes,Private,Urban,73.27,22.2,smokes,0
+50541,Male,47.0,0,0,Yes,Govt_job,Urban,73.48,34.9,smokes,0
+72311,Male,18.0,0,0,No,Private,Urban,113.24,24.9,Unknown,0
+27675,Female,7.0,0,0,No,children,Urban,103.11,18.3,Unknown,0
+51894,Female,65.0,0,0,Yes,Private,Rural,185.28,32.0,smokes,0
+3956,Male,13.0,0,0,No,children,Urban,65.51,25.9,Unknown,0
+6731,Female,53.0,0,0,No,Private,Rural,235.45,,formerly smoked,0
+2019,Male,20.0,0,0,No,Private,Rural,70.96,,Unknown,0
+66922,Male,61.0,1,1,No,Private,Rural,148.24,32.2,formerly smoked,0
+9641,Male,75.0,0,0,Yes,Private,Urban,105.63,28.2,smokes,0
+29908,Female,47.0,0,0,Yes,Private,Urban,103.26,25.4,Unknown,0
+69404,Male,73.0,0,0,Yes,Govt_job,Rural,76.45,28.7,Unknown,0
+10636,Female,74.0,0,0,Yes,Self-employed,Rural,82.27,23.6,formerly smoked,0
+58652,Female,16.0,0,0,No,Never_worked,Rural,68.27,20.4,never smoked,0
+29955,Male,0.08,0,0,No,children,Rural,70.33,16.9,Unknown,0
+12915,Female,66.0,0,0,Yes,Govt_job,Rural,85.52,30.0,never smoked,0
+49574,Female,56.0,0,0,Yes,Private,Rural,227.04,23.0,smokes,0
+9170,Male,60.0,0,0,Yes,Self-employed,Urban,185.71,,Unknown,0
+21292,Male,38.0,0,0,Yes,Private,Rural,111.33,27.0,never smoked,0
+14123,Female,22.0,0,0,Yes,Private,Rural,105.22,31.1,never smoked,0
+47751,Female,19.0,0,0,No,Private,Urban,131.23,21.1,Unknown,0
+11843,Female,65.0,0,0,Yes,Self-employed,Rural,80.42,29.4,formerly smoked,0
+12097,Female,72.0,0,0,Yes,Private,Urban,95.2,35.0,never smoked,0
+43772,Female,28.0,0,0,No,Private,Urban,103.78,23.6,Unknown,0
+59904,Female,1.8,0,0,No,children,Urban,162.93,15.7,Unknown,0
+28513,Female,73.0,0,0,Yes,Private,Rural,88.98,20.6,smokes,0
+32766,Male,51.0,0,0,No,Private,Rural,106.41,41.9,smokes,0
+14553,Male,7.0,0,0,No,children,Urban,76.63,17.3,Unknown,0
+42460,Male,48.0,0,0,Yes,Self-employed,Rural,216.88,,smokes,0
+48875,Male,12.0,0,0,No,children,Rural,196.91,19.7,Unknown,0
+20006,Female,15.0,0,0,No,Private,Urban,76.77,21.7,Unknown,0
+68627,Male,80.0,1,1,Yes,Private,Urban,175.29,31.5,formerly smoked,1
+35332,Female,63.0,0,0,Yes,Private,Rural,93.24,28.8,never smoked,0
+56998,Female,12.0,0,0,No,children,Urban,138.06,23.1,Unknown,0
+3609,Male,78.0,0,0,Yes,Private,Urban,80.44,29.0,never smoked,0
+52792,Female,39.0,0,0,Yes,Private,Urban,62.02,23.7,smokes,0
+40732,Female,50.0,0,0,Yes,Self-employed,Rural,126.85,49.5,formerly smoked,0
+44142,Male,25.0,0,0,No,Private,Rural,95.01,28.0,never smoked,0
+28443,Male,62.0,0,0,Yes,Self-employed,Urban,85.12,36.3,formerly smoked,0
+55592,Male,71.0,0,0,Yes,Private,Rural,109.73,28.9,never smoked,0
+68908,Female,0.72,0,0,No,children,Urban,66.36,23.0,Unknown,0
+64974,Male,0.24,0,0,No,children,Urban,58.35,18.6,Unknown,0
+2092,Female,37.0,0,0,Yes,Private,Rural,98.12,27.5,never smoked,0
+5043,Female,53.0,0,0,Yes,Private,Urban,83.41,29.9,never smoked,0
+33115,Male,32.0,0,0,Yes,Private,Rural,82.68,29.2,never smoked,0
+17683,Male,66.0,0,0,Yes,Self-employed,Urban,96.19,38.3,smokes,0
+69249,Female,3.0,0,0,No,children,Urban,124.5,16.4,Unknown,0
+49815,Female,17.0,0,0,No,Govt_job,Rural,115.93,23.3,never smoked,0
+40622,Female,43.0,0,0,Yes,Private,Rural,80.83,51.5,Unknown,0
+16371,Female,13.0,0,0,No,children,Urban,75.42,40.1,Unknown,0
+52361,Male,69.0,1,1,Yes,Private,Urban,78.11,34.7,formerly smoked,0
+67411,Male,29.0,0,0,No,Private,Rural,105.73,28.2,smokes,0
+22622,Male,10.0,0,0,No,children,Rural,108.79,21.0,Unknown,0
+48064,Male,11.0,0,0,No,children,Rural,65.07,21.5,never smoked,0
+13358,Female,75.0,0,0,Yes,Self-employed,Rural,207.62,31.8,never smoked,0
+52164,Male,29.0,0,0,Yes,Private,Urban,193.81,46.8,never smoked,0
+67350,Female,64.0,0,0,Yes,Govt_job,Rural,78.85,33.9,never smoked,0
+21917,Male,43.0,0,0,Yes,Govt_job,Rural,110.69,35.6,Unknown,0
+38078,Female,82.0,1,1,Yes,Private,Urban,73.19,33.5,never smoked,0
+45283,Female,31.0,0,0,Yes,Private,Urban,106.18,27.0,smokes,0
+14063,Male,81.0,0,1,No,Self-employed,Rural,95.49,29.4,Unknown,0
+70081,Male,42.0,1,0,Yes,Self-employed,Rural,77.24,41.2,Unknown,0
+3205,Female,79.0,0,0,Yes,Self-employed,Urban,79.03,11.3,Unknown,0
+72310,Male,80.0,1,1,Yes,Self-employed,Urban,84.31,30.3,smokes,0
+54012,Female,3.0,0,0,No,children,Urban,74.52,17.5,Unknown,0
+70374,Female,31.0,0,0,Yes,Private,Rural,122.41,40.3,smokes,0
+70674,Male,60.0,0,0,Yes,Self-employed,Urban,69.53,26.2,never smoked,0
+32602,Male,78.0,0,1,Yes,Self-employed,Urban,87.77,30.8,Unknown,0
+14241,Male,17.0,0,0,No,Private,Urban,85.07,21.1,never smoked,0
+24245,Male,55.0,0,0,Yes,Private,Urban,90.97,32.1,Unknown,0
+59359,Male,79.0,0,0,Yes,Self-employed,Urban,105.93,25.2,never smoked,0
+19681,Female,74.0,0,0,Yes,Self-employed,Urban,99.21,22.1,never smoked,0
+18180,Female,3.0,0,0,No,children,Urban,66.25,15.8,Unknown,0
+48993,Female,56.0,0,0,Yes,Private,Rural,228.08,29.1,Unknown,0
+41927,Female,28.0,0,0,Yes,Private,Rural,64.64,22.1,never smoked,0
+30850,Male,72.0,0,0,Yes,Private,Urban,81.05,30.3,Unknown,0
+47208,Female,70.0,0,0,Yes,Self-employed,Rural,62.67,27.7,never smoked,0
+6118,Male,59.0,0,0,Yes,Private,Urban,86.23,30.0,formerly smoked,1
+49341,Female,78.0,0,0,Yes,Private,Rural,154.75,17.6,never smoked,0
+4833,Female,12.0,0,0,No,children,Rural,207.45,25.4,smokes,0
+48614,Male,59.0,0,0,Yes,Govt_job,Urban,99.69,28.8,smokes,0
+30567,Male,71.0,1,0,Yes,Private,Urban,94.65,25.3,formerly smoked,0
+1077,Male,77.0,0,1,Yes,Govt_job,Rural,106.03,,Unknown,0
+11630,Female,25.0,0,0,No,Private,Urban,92.06,25.3,smokes,0
+11702,Female,18.0,0,0,No,Never_worked,Urban,82.36,22.7,Unknown,0
+31692,Male,67.0,0,0,Yes,Private,Rural,83.16,28.3,never smoked,0
+187,Female,20.0,0,0,No,Private,Rural,84.07,27.6,smokes,0
+11176,Male,9.0,0,0,No,children,Rural,85.02,16.3,Unknown,0
+67426,Female,1.24,0,0,No,children,Rural,61.94,20.3,Unknown,0
+40509,Female,23.0,0,0,No,Private,Urban,91.19,28.3,never smoked,0
+15964,Female,64.0,1,0,Yes,Private,Rural,99.4,29.1,never smoked,0
+2070,Male,52.0,0,0,Yes,Private,Urban,95.85,29.6,smokes,0
+17098,Female,12.0,0,0,No,children,Urban,116.06,25.9,Unknown,0
+55462,Male,6.0,0,0,No,children,Urban,123.39,15.2,Unknown,0
+61848,Female,48.0,0,0,Yes,Private,Urban,113.87,28.9,never smoked,0
+23587,Female,16.0,0,0,No,Never_worked,Urban,84.4,25.9,never smoked,0
+46577,Female,13.0,0,0,No,Private,Urban,77.63,31.7,never smoked,0
+12345,Male,11.0,0,0,No,children,Urban,73.18,27.6,never smoked,0
+53990,Male,64.0,0,1,Yes,Private,Urban,211.35,30.7,formerly smoked,0
+69112,Male,68.0,1,1,Yes,Private,Rural,271.74,31.1,smokes,1
+16028,Female,45.0,0,0,Yes,Private,Rural,77.19,37.2,smokes,0
+25226,Male,57.0,0,1,No,Govt_job,Urban,217.08,,Unknown,1
+68241,Female,15.0,0,0,No,children,Urban,126.96,28.7,Unknown,0
+12753,Male,53.0,0,0,Yes,Private,Urban,86.25,29.3,never smoked,0
+60148,Male,34.0,0,0,Yes,Private,Urban,80.81,33.2,never smoked,0
+71917,Male,12.0,0,0,No,children,Rural,213.87,25.3,never smoked,0
+18187,Male,58.0,0,0,Yes,Private,Rural,96.01,33.8,Unknown,0
+59309,Male,18.0,0,0,No,Self-employed,Urban,74.0,23.7,Unknown,0
+27013,Male,2.0,0,0,No,children,Urban,78.98,15.1,Unknown,0
+32522,Male,19.0,0,0,No,Private,Urban,103.92,24.1,Unknown,0
+7964,Male,24.0,0,0,No,Private,Urban,97.47,24.2,formerly smoked,0
+61291,Male,28.0,0,0,Yes,Private,Rural,169.49,27.2,Unknown,0
+41827,Male,58.0,0,0,Yes,Private,Rural,135.89,23.1,formerly smoked,0
+66065,Male,13.0,0,0,No,children,Rural,137.45,18.2,Unknown,0
+35437,Female,28.0,0,0,Yes,Private,Rural,73.39,30.8,Unknown,0
+52668,Female,24.0,0,0,No,Private,Urban,65.44,23.6,never smoked,0
+3753,Male,31.0,0,0,Yes,Private,Urban,74.05,26.0,Unknown,0
+70661,Female,28.0,0,0,No,Private,Rural,134.12,28.8,formerly smoked,0
+64817,Male,39.0,0,0,Yes,Self-employed,Rural,88.48,34.3,never smoked,0
+16685,Female,71.0,1,0,Yes,Private,Urban,194.62,31.6,never smoked,0
+71639,Female,68.0,0,0,No,Govt_job,Urban,82.1,27.1,Unknown,1
+61973,Female,80.0,1,1,Yes,Private,Rural,115.52,34.4,Unknown,0
+63984,Male,39.0,0,0,Yes,Private,Rural,205.77,24.1,never smoked,0
+54815,Female,49.0,0,0,Yes,Private,Urban,125.3,29.7,formerly smoked,0
+63725,Male,23.0,0,0,No,Private,Urban,62.0,24.8,formerly smoked,0
+38348,Female,66.0,0,0,Yes,Private,Urban,80.1,32.0,never smoked,0
+39375,Female,40.0,0,0,Yes,Private,Rural,119.52,34.6,never smoked,0
+55927,Female,80.0,1,0,Yes,Private,Rural,74.9,22.2,never smoked,1
+58439,Male,36.0,0,0,No,Private,Urban,61.29,26.7,never smoked,0
+27435,Female,17.0,0,0,No,Private,Urban,82.64,31.1,Unknown,0
+55599,Female,9.0,0,0,No,children,Rural,69.87,18.0,Unknown,0
+49014,Female,76.0,0,0,Yes,Govt_job,Urban,204.05,23.5,never smoked,0
+66067,Male,66.0,0,0,Yes,Private,Rural,67.92,31.1,formerly smoked,0
+11259,Female,53.0,0,0,Yes,Private,Urban,227.68,,never smoked,0
+51177,Female,49.0,0,0,Yes,Private,Urban,67.68,24.8,formerly smoked,0
+31360,Female,31.0,0,0,No,Private,Urban,89.11,51.9,smokes,0
+61715,Male,55.0,0,0,Yes,Private,Rural,56.42,31.8,never smoked,0
+51385,Male,61.0,0,0,Yes,Private,Rural,81.25,43.4,smokes,0
+23360,Male,0.8,0,0,No,children,Rural,114.54,15.1,Unknown,0
+55567,Female,76.0,0,1,Yes,Private,Rural,86.09,28.1,never smoked,0
+27803,Female,54.0,0,0,Yes,Govt_job,Urban,231.54,29.9,never smoked,0
+57879,Female,74.0,0,0,Yes,Private,Urban,87.11,24.8,never smoked,0
+51125,Female,66.0,0,0,Yes,Private,Urban,89.7,34.9,smokes,0
+3553,Female,43.0,0,0,Yes,Govt_job,Urban,104.55,23.9,smokes,0
+51084,Female,80.0,0,0,Yes,Private,Urban,62.62,23.1,formerly smoked,0
+66071,Male,51.0,1,0,Yes,Private,Urban,112.16,42.5,formerly smoked,1
+38243,Female,37.0,0,0,Yes,Private,Rural,101.07,26.4,Unknown,0
+60635,Male,48.0,0,0,Yes,Private,Rural,99.96,25.2,never smoked,0
+65673,Female,55.0,0,0,No,Self-employed,Rural,67.1,31.4,never smoked,0
+23890,Female,44.0,1,0,Yes,Govt_job,Rural,105.77,36.8,never smoked,0
+56681,Female,22.0,0,0,No,Private,Urban,130.34,22.0,never smoked,0
+25325,Female,42.0,0,0,Yes,Private,Rural,82.24,23.8,formerly smoked,0
+19611,Male,59.0,0,0,Yes,Private,Urban,81.21,33.2,smokes,0
+49152,Female,40.0,0,0,No,Private,Rural,70.45,23.3,smokes,0
+23462,Female,17.0,0,0,No,Private,Urban,87.52,39.2,never smoked,0
+18684,Female,73.0,0,0,Yes,Self-employed,Rural,89.45,30.3,formerly smoked,0
+34661,Male,48.0,1,0,Yes,Private,Urban,185.0,26.1,never smoked,0
+7799,Female,79.0,0,0,No,Self-employed,Urban,77.59,33.0,never smoked,0
+44777,Male,67.0,0,0,Yes,Private,Rural,208.78,26.7,Unknown,0
+70428,Female,37.0,0,0,Yes,Govt_job,Urban,76.98,34.7,never smoked,0
+20165,Female,77.0,0,0,Yes,Private,Urban,250.8,32.9,never smoked,0
+1218,Female,23.0,0,0,No,Private,Urban,105.28,27.1,formerly smoked,0
+71724,Female,23.0,0,0,No,Private,Urban,59.07,21.6,never smoked,0
+13859,Female,31.0,0,0,No,Private,Urban,102.39,22.9,smokes,0
+40264,Female,17.0,0,0,No,Private,Rural,99.29,21.2,Unknown,0
+65376,Female,65.0,0,0,Yes,Self-employed,Urban,95.44,25.5,smokes,0
+24272,Male,63.0,0,0,Yes,Govt_job,Rural,217.66,28.7,formerly smoked,0
+32320,Female,35.0,0,0,Yes,Self-employed,Urban,114.45,25.2,smokes,0
+25900,Male,1.8,0,0,No,children,Rural,85.16,20.2,Unknown,0
+19271,Female,82.0,1,1,Yes,Self-employed,Urban,101.56,31.5,never smoked,0
+8790,Female,17.0,0,0,No,Private,Urban,127.42,22.4,Unknown,0
+34261,Male,0.64,0,0,No,children,Rural,86.74,16.2,Unknown,0
+12963,Female,29.0,0,0,No,Self-employed,Rural,67.56,19.6,Unknown,0
+67689,Male,37.0,0,0,Yes,Self-employed,Rural,82.43,39.1,Unknown,0
+22013,Female,17.0,0,0,No,Private,Rural,105.91,30.8,never smoked,0
+16320,Female,11.0,0,0,No,children,Urban,102.76,20.3,Unknown,0
+45719,Female,22.0,0,0,No,Private,Rural,82.0,26.4,never smoked,0
+64128,Male,10.0,0,0,No,children,Urban,63.08,20.5,smokes,0
+4128,Female,55.0,0,0,Yes,Private,Rural,76.7,39.7,formerly smoked,0
+42184,Male,43.0,0,0,Yes,Self-employed,Rural,82.84,31.6,never smoked,0
+30201,Female,54.0,0,0,Yes,Private,Urban,75.16,38.0,never smoked,0
+1260,Male,59.0,0,0,Yes,Govt_job,Urban,101.24,26.5,never smoked,0
+34608,Male,57.0,0,0,Yes,Private,Rural,86.67,39.0,Unknown,0
+14222,Female,25.0,0,0,No,Private,Urban,78.59,37.2,never smoked,0
+28716,Female,74.0,0,0,Yes,Self-employed,Rural,94.67,19.7,Unknown,0
+63997,Male,70.0,0,0,Yes,Private,Urban,102.5,37.8,Unknown,0
+44799,Female,32.0,0,0,Yes,Private,Rural,66.3,47.5,never smoked,0
+12228,Male,13.0,0,0,No,children,Rural,97.97,24.5,never smoked,0
+12092,Male,16.0,0,0,No,Private,Rural,90.39,26.5,never smoked,0
+72819,Female,82.0,0,0,Yes,Self-employed,Urban,243.59,24.3,never smoked,0
+8646,Female,54.0,0,0,Yes,Private,Rural,97.47,26.7,never smoked,0
+71846,Female,76.0,0,0,Yes,Govt_job,Urban,223.64,27.1,smokes,0
+53426,Male,49.0,0,0,Yes,Private,Rural,58.42,32.8,formerly smoked,0
+67099,Male,0.56,0,0,No,children,Rural,57.02,20.7,Unknown,0
+62332,Female,40.0,0,0,Yes,Private,Rural,74.51,36.6,never smoked,0
+8623,Female,3.0,0,0,No,children,Urban,78.79,22.6,Unknown,0
+42841,Male,59.0,0,0,Yes,Private,Rural,69.37,26.9,formerly smoked,0
+62791,Male,79.0,1,1,Yes,Self-employed,Rural,205.23,22.0,never smoked,0
+14404,Female,13.0,0,0,No,children,Urban,94.12,20.1,never smoked,0
+17236,Female,3.0,0,0,No,children,Urban,66.61,17.4,Unknown,0
+25107,Female,47.0,0,0,Yes,Private,Urban,65.04,30.9,never smoked,0
+43803,Female,64.0,0,0,Yes,Private,Urban,65.63,33.5,smokes,0
+24342,Female,23.0,0,0,No,Private,Rural,112.3,26.6,Unknown,0
+52554,Male,19.0,0,0,No,Private,Rural,64.92,22.5,Unknown,0
+40240,Male,40.0,1,0,Yes,Self-employed,Urban,93.2,24.8,smokes,0
+18595,Female,77.0,0,0,Yes,Private,Urban,99.78,38.0,never smoked,0
+14431,Male,72.0,1,0,Yes,Self-employed,Rural,185.49,37.1,never smoked,1
+3305,Male,65.0,0,0,Yes,Private,Urban,197.69,28.4,smokes,0
+20973,Male,45.0,0,0,Yes,Govt_job,Rural,86.99,37.9,never smoked,0
+47196,Male,42.0,0,0,Yes,Private,Rural,110.68,32.4,formerly smoked,0
+40076,Female,46.0,0,0,Yes,Private,Rural,70.11,24.2,never smoked,0
+5068,Female,28.0,0,0,No,Private,Urban,76.81,28.3,smokes,0
+56804,Female,34.0,0,0,No,Govt_job,Urban,60.36,24.1,never smoked,0
+39531,Male,50.0,1,0,Yes,Private,Rural,220.36,40.9,formerly smoked,0
+72041,Male,23.0,0,0,No,Private,Urban,82.53,20.7,smokes,0
+16837,Male,62.0,1,0,Yes,Private,Rural,77.92,26.7,never smoked,0
+45323,Female,51.0,0,0,Yes,Private,Urban,114.89,23.0,never smoked,0
+14996,Male,66.0,0,0,Yes,Self-employed,Rural,85.98,28.0,Unknown,0
+47414,Female,71.0,1,0,Yes,Private,Urban,116.76,32.9,formerly smoked,0
+3980,Female,27.0,0,0,No,Private,Rural,80.22,21.6,never smoked,0
+47803,Male,37.0,0,0,Yes,Govt_job,Urban,173.97,26.3,Unknown,0
+69329,Female,62.0,0,0,Yes,Private,Rural,203.57,29.1,Unknown,0
+29028,Female,41.0,0,0,Yes,Private,Rural,91.04,24.5,never smoked,0
+18178,Female,48.0,0,0,Yes,Private,Urban,86.06,36.2,never smoked,0
+35155,Female,50.0,0,0,Yes,Self-employed,Urban,69.92,18.7,formerly smoked,0
+54724,Female,81.0,0,0,No,Govt_job,Urban,70.3,25.8,smokes,1
+70392,Male,34.0,0,0,Yes,Private,Rural,112.72,19.4,Unknown,0
+42305,Female,41.0,0,0,No,Private,Rural,100.75,27.2,never smoked,0
+71044,Female,8.0,0,0,No,children,Rural,71.63,16.3,Unknown,0
+21547,Female,46.0,0,0,Yes,Govt_job,Urban,75.28,36.7,formerly smoked,0
+11817,Male,58.0,0,0,Yes,Govt_job,Urban,160.87,,formerly smoked,0
+32365,Male,42.0,0,0,Yes,Private,Rural,89.22,53.8,Unknown,0
+40144,Female,32.0,0,0,No,Self-employed,Rural,93.17,27.5,smokes,0
+30550,Female,78.0,0,0,No,Private,Urban,103.86,30.6,Unknown,0
+59743,Male,64.0,0,1,Yes,Self-employed,Rural,69.28,38.6,formerly smoked,0
+66893,Male,49.0,1,0,Yes,Govt_job,Urban,139.43,40.2,formerly smoked,0
+57602,Male,6.0,0,0,No,children,Rural,115.4,19.2,Unknown,0
+33528,Female,80.0,0,1,Yes,Self-employed,Urban,79.09,22.8,never smoked,0
+27377,Male,53.0,0,0,Yes,Private,Rural,79.87,30.9,never smoked,0
+42806,Female,60.0,1,0,Yes,Private,Rural,200.66,36.3,smokes,0
+63836,Male,81.0,1,1,Yes,Govt_job,Rural,217.94,24.1,formerly smoked,0
+71182,Female,61.0,1,0,Yes,Govt_job,Urban,153.38,38.8,never smoked,0
+53636,Female,11.0,0,0,No,children,Urban,88.79,21.3,never smoked,0
+43039,Female,63.0,0,0,Yes,Private,Rural,153.6,28.0,formerly smoked,0
+5655,Male,4.0,0,0,No,children,Urban,83.13,16.8,Unknown,0
+47876,Male,1.0,0,0,No,children,Rural,89.3,21.4,Unknown,0
+20256,Male,34.0,0,0,Yes,Private,Urban,80.97,28.7,never smoked,0
+40513,Female,21.0,0,0,No,Private,Urban,90.16,28.9,smokes,0
+72818,Female,26.0,0,0,No,Private,Rural,90.54,37.1,Unknown,0
+21678,Male,33.0,0,0,Yes,Private,Urban,90.73,32.8,smokes,0
+3640,Female,31.0,0,0,No,Self-employed,Rural,70.65,29.9,Unknown,0
+49976,Female,54.0,0,1,Yes,Private,Urban,140.28,37.1,formerly smoked,0
+13540,Female,59.0,0,0,Yes,Self-employed,Rural,115.68,27.1,Unknown,0
+7730,Male,31.0,0,0,No,Private,Rural,94.96,54.7,smokes,0
+5927,Female,1.32,0,0,No,children,Rural,67.68,16.5,Unknown,0
+67432,Female,60.0,0,0,Yes,Private,Urban,97.43,26.4,smokes,1
+68370,Male,49.0,0,0,Yes,Private,Urban,130.07,26.0,never smoked,0
+31697,Female,34.0,0,0,Yes,Private,Urban,76.42,27.6,smokes,0
+15062,Male,40.0,0,0,Yes,Govt_job,Urban,82.46,25.3,smokes,0
+68249,Female,27.0,0,0,Yes,Private,Rural,85.6,21.4,Unknown,0
+2291,Female,80.0,1,0,Yes,Self-employed,Urban,218.0,33.5,Unknown,0
+8045,Female,74.0,1,0,Yes,Private,Urban,70.28,21.8,never smoked,1
+12022,Male,37.0,0,0,Yes,Govt_job,Urban,82.09,35.7,smokes,0
+23170,Female,36.0,0,0,No,Private,Urban,96.1,29.6,never smoked,0
+49615,Female,12.0,0,0,No,children,Urban,58.14,21.3,never smoked,0
+20399,Female,72.0,1,0,Yes,Private,Urban,105.51,32.7,never smoked,0
+5984,Male,25.0,0,0,Yes,Private,Rural,78.29,,smokes,0
+66592,Male,16.0,0,0,No,Private,Rural,122.46,18.7,never smoked,0
+3946,Female,22.0,0,0,Yes,Private,Urban,89.06,27.7,never smoked,0
+31867,Female,49.0,0,0,No,Private,Rural,65.81,32.3,Unknown,0
+10119,Male,79.0,0,0,Yes,Private,Rural,69.34,29.0,never smoked,0
+43268,Female,52.0,1,0,No,Private,Urban,73.0,25.2,smokes,0
+53482,Male,32.0,0,0,No,Self-employed,Rural,56.08,35.9,formerly smoked,0
+48435,Female,2.0,0,0,No,children,Rural,155.14,13.7,Unknown,0
+15515,Female,48.0,0,0,Yes,Self-employed,Rural,209.9,,smokes,0
+14099,Female,57.0,0,0,Yes,Govt_job,Urban,97.39,38.0,Unknown,0
+68420,Female,13.0,0,0,No,children,Urban,63.22,18.5,formerly smoked,0
+33454,Female,63.0,0,0,Yes,Govt_job,Rural,106.58,23.9,Unknown,1
+18430,Female,81.0,0,0,Yes,Self-employed,Urban,90.9,31.2,formerly smoked,0
+31481,Female,1.16,0,0,No,children,Urban,97.28,17.8,Unknown,0
+19778,Male,80.0,0,0,No,Self-employed,Rural,204.17,41.3,formerly smoked,0
+55410,Female,50.0,0,0,Yes,Self-employed,Urban,62.63,23.4,never smoked,0
+59049,Female,17.0,0,0,No,Private,Rural,120.58,18.3,never smoked,0
+51532,Female,53.0,0,0,Yes,Govt_job,Rural,81.36,48.8,never smoked,0
+45497,Female,55.0,0,0,No,Private,Rural,83.09,18.8,never smoked,0
+36814,Female,49.0,0,0,Yes,Private,Rural,56.11,28.7,smokes,0
+55591,Male,50.0,0,0,Yes,Private,Urban,120.44,30.3,never smoked,0
+72776,Male,26.0,0,0,Yes,Govt_job,Urban,94.24,29.2,formerly smoked,0
+48364,Male,52.0,0,0,Yes,Govt_job,Urban,223.35,27.3,formerly smoked,0
+50763,Male,42.0,0,0,Yes,Govt_job,Urban,58.35,24.3,never smoked,0
+62709,Female,47.0,0,0,Yes,Private,Rural,204.63,43.4,never smoked,0
+63333,Female,32.0,0,0,Yes,Self-employed,Urban,110.33,24.0,smokes,0
+45112,Male,40.0,0,0,No,Govt_job,Urban,197.11,23.9,never smoked,0
+67940,Female,46.0,0,0,Yes,Govt_job,Rural,83.88,27.1,never smoked,0
+26250,Male,17.0,0,0,No,Self-employed,Urban,113.85,22.9,Unknown,0
+44938,Female,1.4,0,0,No,children,Urban,129.07,20.6,Unknown,0
+32240,Female,27.0,0,0,No,Private,Urban,93.55,41.6,never smoked,0
+41122,Female,62.0,0,0,Yes,Private,Rural,226.38,47.4,never smoked,0
+12689,Female,63.0,0,0,Yes,Govt_job,Rural,205.35,42.2,formerly smoked,1
+69435,Female,0.56,0,0,No,children,Urban,80.92,18.3,Unknown,0
+33726,Female,8.0,0,0,No,children,Urban,72.81,18.2,Unknown,0
+55566,Female,34.0,0,0,Yes,Private,Rural,231.5,45.4,never smoked,0
+56746,Male,46.0,1,0,Yes,Private,Urban,65.5,30.7,never smoked,0
+21284,Female,32.0,0,0,Yes,Private,Urban,98.09,25.2,smokes,0
+4797,Female,52.0,0,0,Yes,Private,Urban,99.1,29.1,Unknown,0
+8838,Female,36.0,0,0,No,Private,Rural,66.55,32.8,smokes,0
+64132,Male,67.0,0,1,Yes,Self-employed,Rural,95.88,31.9,Unknown,0
+27169,Female,66.0,1,0,Yes,Govt_job,Rural,116.55,31.1,formerly smoked,1
+68157,Male,1.08,0,0,No,children,Rural,83.27,24.3,Unknown,0
+49598,Male,80.0,0,0,Yes,Self-employed,Urban,120.03,24.3,formerly smoked,0
+3590,Female,28.0,1,0,No,Private,Rural,80.4,57.5,never smoked,0
+39556,Male,50.0,0,0,Yes,Self-employed,Urban,101.85,25.1,smokes,0
+66310,Male,54.0,0,0,Yes,Self-employed,Rural,138.47,31.5,never smoked,0
+41935,Male,34.0,0,0,No,Private,Rural,125.29,33.9,never smoked,0
+16605,Male,57.0,0,0,Yes,Private,Urban,106.24,32.3,never smoked,0
+53276,Female,49.0,0,0,Yes,Private,Urban,67.55,17.6,formerly smoked,0
+51889,Female,40.0,0,0,Yes,Private,Urban,58.64,33.0,never smoked,0
+54347,Male,61.0,0,0,Yes,Self-employed,Rural,155.32,26.6,formerly smoked,0
+34248,Male,50.0,1,0,No,Private,Urban,81.96,,formerly smoked,0
+72725,Female,26.0,0,0,No,Govt_job,Urban,59.67,24.5,smokes,0
+61684,Female,38.0,0,0,Yes,Private,Urban,151.26,20.6,never smoked,0
+37025,Female,2.0,0,0,No,children,Urban,114.02,18.1,Unknown,0
+2846,Female,46.0,0,0,Yes,Private,Rural,85.81,20.2,formerly smoked,0
+60210,Female,22.0,0,0,No,Private,Urban,73.5,41.3,smokes,0
+33906,Male,51.0,0,0,Yes,Govt_job,Urban,92.32,34.7,smokes,0
+61821,Female,59.0,0,0,Yes,Private,Rural,123.47,27.5,Unknown,0
+62861,Female,78.0,0,0,Yes,Private,Urban,67.29,24.6,never smoked,1
+43090,Female,62.0,1,0,Yes,Self-employed,Rural,74.32,34.0,never smoked,0
+56553,Male,51.0,0,0,Yes,Private,Urban,63.61,42.3,Unknown,0
+15566,Male,39.0,0,0,Yes,Private,Rural,91.85,24.7,smokes,0
+24299,Male,54.0,1,0,Yes,Self-employed,Rural,97.99,32.3,smokes,0
