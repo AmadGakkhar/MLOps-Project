@@ -5,6 +5,7 @@ import numpy as np
 import dill
 import yaml
 from pandas import DataFrame
+import pandas as pd
 
 from heart_disease_prediction.exception import heart_disease_prediction_exception
 from heart_disease_prediction.logger import logging
@@ -124,3 +125,13 @@ def drop_columns(df: DataFrame, cols: list) -> DataFrame:
         return df
     except Exception as e:
         raise heart_disease_prediction_exception(e, sys) from e
+
+
+def df_to_json(df):
+    """Convert a DataFrame to JSON"""
+    return df.to_json(orient="records")
+
+
+def json_to_df(json_data):
+    """Convert JSON to a DataFrame"""
+    return pd.read_json(json_data, orient="records")

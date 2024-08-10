@@ -3,32 +3,49 @@ from heart_disease_prediction.pipline.prediction_pipeline import PredictionPipel
 from heart_disease_prediction.constants import BEST_MODEL_PATH, PREPROCESSOR_PATH
 from dotenv import load_dotenv
 import pandas as pd
-from fastapi import FastAPI, Response
+from fastapi import FastAPI, Response, Request
 from fastapi.responses import HTMLResponse
-
-load_dotenv()
-
-test_df = pd.read_csv("/home/amadgakkhar/code/MLOps-Project/sample_test.csv")
+from heart_disease_prediction.utils.main_utils import df_to_json, json_to_df
+from fastapi.templating import Jinja2Templates
+from fastapi.staticfiles import StaticFiles
 
 
 app = FastAPI()
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+templates = Jinja2Templates(directory="static")
+# app.mount("/template", StaticFiles(directory="template"), name="static")
 
 
 @app.get("/")
-def read_root():
-    return {"message": "Welcome to the app!"}
+def read_root(request: Request):
+    return templates.TemplateResponse("index.html", {"request": request})
 
 
 @app.get("/train")
-def train_pipeline():
+def train_pipeline(request: Request):
+    return templates.TemplateResponse("train.html", {"request": request})
+
+
+@app.get("/train/start")
+def start_training(request: Request):
     TrainPipeline().start_training()
-    return {"message": "Training Completed"}
+    return templates.TemplateResponse("train_complete.html", {"request": request})
 
 
-# @app.post("/test")
-# def test_pipeline(test_data: pd.DataFrame):
-#     estimate = PredictionPipeline(test_data).predict()
-#     print(estimate)
+@app.get("/test")
+def test_pipeline_get(request: Request):
+    return templates.TemplateResponse("test.html", {"request": request})
+
+
+@app.post("/test")
+async def test_pipeline(request: Request):
+    data = await request.json()
+
+    estimate = PredictionPipeline(data).predict()
+    print(estimate)
+
+    return estimate
 
 
 if __name__ == "__main__":

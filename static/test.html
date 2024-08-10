@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Prediction Pipeline</title>
+    <style>
+        /* Add some basic styling to make the page look better */
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        form {
+            max-width: 500px;
+            margin: 40px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        input,
+        select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #3e8e41;
+        }
+    </style>
+</head>
+
+<body>
+    <form id="prediction-form">
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+            <option value="Other">Other</option>
+        </select>
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" step="any">
+        <label for="hypertension">Hypertension:</label>
+        <select id="hypertension" name="hypertension">
+            <option value="0">No</option>
+            <option value="1">Yes</option>
+        </select>
+        <label for="heart_disease">Heart Disease:</label>
+        <select id="heart_disease" name="heart_disease">
+            <option value="0">No</option>
+            <option value="1">Yes</option>
+        </select>
+        <label for="ever_married">Ever Married:</label>
+        <select id="ever_married" name="ever_married">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select>
+        <label for="work_type">Work Type:</label>
+        <select id="work_type" name="work_type">
+            <option value="Private">Private</option>
+            <option value="Self-employed">Self-employed</option>
+            <option value="children">Children</option>
+            <option value="Govt_job">Govt Job</option>
+            <option value="Never_worked">Never Worked</option>
+        </select>
+        <label for="Residence_type">Residence Type:</label>
+        <select id="Residence_type" name="Residence_type">
+            <option value="Urban">Urban</option>
+            <option value="Rural">Rural</option>
+        </select>
+        <label for="avg_glucose_level">Avg Glucose Level:</label>
+        <input type="number" id="avg_glucose_level" name="avg_glucose_level" step="any">
+        <label for="bmi">BMI:</label>
+        <input type="number" id="bmi" name="bmi" step="any">
+        <label for="smoking_status">Smoking Status:</label>
+        <select id="smoking_status" name="smoking_status">
+            <option value="smokes">Smokes</option>
+            <option value="never smoked">Never Smoked</option>
+            <option value="formerly smoked">Formerly Smoked</option>
+            <option value="Unknown">Unknown</option>
+        </select>
+        <button id="predict-btn">Predict</button>
+    </form>
+
+    <script>
+        const form = document.getElementById('prediction-form');
+        const predictBtn = document.getElementById('predict-btn');
+
+        predictBtn.addEventListener('click', async (e) => {
+            e.preventDefault();
+            const formData = new FormData(form);
+            const jsonData = {};
+            for (const [key, value] of formData) {
+                jsonData[key] = value;
+            }
+            const response = await fetch('/test', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(jsonData),
+            });
+            const result = await response.json();
+            console.log(result);
+
+            // Update the HTML content with the result
+            const resultElement = document.getElementById('result');
+            if (resultElement) {
+                resultElement.textContent = `Estimated: ${result}`;
+            } else {
+                const resultParagraph = document.createElement('p');
+                resultParagraph.id = 'result';
+                resultParagraph.textContent = `Estimated: ${result}`;
+                form.appendChild(resultParagraph);
+            }
+        });
+    </script>
+</body>
+
+</html>

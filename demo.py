@@ -14,7 +14,8 @@ from heart_disease_prediction.entity.config_entity import (
     DataTransformationConfig,
     ModelTrainerConfig,
 )
-
+from heart_disease_prediction.pipline.prediction_pipeline import PredictionPipeline
+from heart_disease_prediction.utils.main_utils import df_to_json
 import sys
 from dotenv import load_dotenv
 import os
@@ -22,32 +23,35 @@ import os
 load_dotenv()
 
 test_df = pd.read_csv("/home/amadgakkhar/code/MLOps-Project/sample_test.csv")
-data_ingestion_artifact = DataIngestion(DataIngestionConfig).initiate_data_ingestion()
+test_data = df_to_json(test_df)
+estimate = PredictionPipeline(test_data).predict()
+
+# data_ingestion_artifact = DataIngestion(DataIngestionConfig).initiate_data_ingestion()
 
 
-data_validation_artifact = DataValidation(
-    data_validation_config=DataValidationConfig,
-    data_ingestion_artifact=data_ingestion_artifact,
-).initiate_data_validation()
+# data_validation_artifact = DataValidation(
+#     data_validation_config=DataValidationConfig,
+#     data_ingestion_artifact=data_ingestion_artifact,
+# ).initiate_data_validation()
 
 
-data_transformation_artifact = DataTransformation(
-    data_ingestion_artifact=data_ingestion_artifact,
-    data_validation_artifact=data_validation_artifact,
-    data_transformation_config=DataTransformationConfig,
-).initiate_data_transformation()
+# data_transformation_artifact = DataTransformation(
+#     data_ingestion_artifact=data_ingestion_artifact,
+#     data_validation_artifact=data_validation_artifact,
+#     data_transformation_config=DataTransformationConfig,
+# ).initiate_data_transformation()
 
 
-model, trainer_artifact = ModelTrainer(
-    data_transformation_artifact=data_transformation_artifact,
-    model_trainer_config=ModelTrainerConfig,
-).initiate_model_trainer()
+# model, trainer_artifact = ModelTrainer(
+#     data_transformation_artifact=data_transformation_artifact,
+#     model_trainer_config=ModelTrainerConfig,
+# ).initiate_model_trainer()
 
 
-estimate = Estimator(
-    testData=test_df,
-    data_transformation_artifact=data_transformation_artifact,
-    model_trainer_artifact=trainer_artifact,
-).run()
+# estimate = Estimator(
+#     testData=test_df,
+#     data_transformation_artifact=data_transformation_artifact,
+#     model_trainer_artifact=trainer_artifact,
+# ).run()
 
 print(estimate)
