@@ -7,4 +7,4 @@ WORKDIR /app
 COPY . /app
 RUN pip install -r requirements.txt
 
-CMD ["uvicorn", "app_simple:app"]
+CMD ["python3", "app_simple.py"]
