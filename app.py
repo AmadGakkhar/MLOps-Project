@@ -14,7 +14,6 @@ app = FastAPI()
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
 templates = Jinja2Templates(directory="static")
-# app.mount("/template", StaticFiles(directory="template"), name="static")
 
 
 @app.get("/")
@@ -41,8 +40,9 @@ def test_pipeline_get(request: Request):
 @app.post("/test")
 async def test_pipeline(request: Request):
     data = await request.json()
-
-    estimate = PredictionPipeline(data).predict()
+    data_df = pd.DataFrame([data])
+    print(data_df)
+    estimate = PredictionPipeline(data_df).predict()
     print(estimate)
 
     return estimate
@@ -52,15 +52,3 @@ if __name__ == "__main__":
     import uvicorn
 
     uvicorn.run(app, host="0.0.0.0", port=8000)
-
-
-# TrainPipeline().start_training()
-
-# estimate = Estimator(
-#     testData=test_df,
-#     preprocessor_path=PREPROCESSOR_PATH,
-#     best_model_path=BEST_MODEL_PATH,
-# ).run()
-
-# estimate = PredictionPipeline(1).predict()
-# print(estimate)

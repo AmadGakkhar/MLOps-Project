@@ -12,9 +12,20 @@ class PredictionPipeline:
         self.data_json = data_json
 
     def get_Data(self):
-        # df = json_to_df(self.data_json)
-        df = pd.DataFrame([self.data_json])
-        return df
+        try:
+            json.loads(self.data_json)  ## Checks if the data is in json format
+            df = json_to_df(self.data_json)  ## Converts
+            # print("Converted Json to DF")
+
+            return df
+        except:
+
+            if isinstance(self.data_json, pd.DataFrame):
+                df = self.data_json
+                # print("Data already in DF")
+                return df
+            else:
+                raise Exception("Invalid Data Format in the Prediction Pipeline")
 
     def predict(self):
         data = self.get_Data()

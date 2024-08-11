@@ -23,8 +23,14 @@ import os
 load_dotenv()
 
 test_df = pd.read_csv("/home/amadgakkhar/code/MLOps-Project/sample_test.csv")
-test_data = df_to_json(test_df)
-estimate = PredictionPipeline(test_data).predict()
+print("Original DF \n\n")
+print(test_df)
+# test_data = df_to_json(test_df)
+test_dict = test_df.to_dict(orient="list")
+# print(test_dict)
+# print("\n\nDataFrame\n\n")
+# print(pd.DataFrame(test_dict))
+estimate = PredictionPipeline(test_dict).predict()
 
 # data_ingestion_artifact = DataIngestion(DataIngestionConfig).initiate_data_ingestion()
 
