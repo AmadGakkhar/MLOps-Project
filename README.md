@@ -1,4 +1,6 @@
 # MLOps-Project
+[![workflow](https://github.com/AmadGakkhar/MLOps-Project/actions/workflows/cicd.yaml/badge.svg)](https://github.com/AmadGakkhar/MLOps-Project/actions/workflows/cicd.yaml)
+
 
 We will divide this project in the following parts
 
@@ -66,7 +68,7 @@ We will divide this project in the following parts
     AWS_ECR_LOGIN_URI = 566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = 
-    
+
     MONGODB_URL = 
 
 
