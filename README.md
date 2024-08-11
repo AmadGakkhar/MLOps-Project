@@ -65,6 +65,15 @@ We will divide this project in the following parts
 
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = 
 
 
+8. Create Docker file
+
+9. Create Workflows file
+
+10. After pushing the changes, if workflow jobs are success we will have to do port maping
+
+    Goto instances -> Security ->Security Groups -> Edit Inbound Rules -> Add Rule -> Add yor port Number -> 0.0.0.0/0 ->Save Rules
+
+11. 
