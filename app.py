@@ -1,13 +1,14 @@
 from heart_disease_prediction.pipline.training_pipeline import TrainPipeline
 from heart_disease_prediction.pipline.prediction_pipeline import PredictionPipeline
-from heart_disease_prediction.constants import BEST_MODEL_PATH, PREPROCESSOR_PATH
 from dotenv import load_dotenv
 import pandas as pd
 from fastapi import FastAPI, Response, Request
 from fastapi.responses import HTMLResponse
-from heart_disease_prediction.utils.main_utils import df_to_json, json_to_df
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
+import uvicorn
+
+load_dotenv()
 
 
 app = FastAPI()
@@ -49,6 +50,4 @@ async def test_pipeline(request: Request):
 
 
 if __name__ == "__main__":
-    import uvicorn
-
     uvicorn.run(app, host="0.0.0.0", port=8000)

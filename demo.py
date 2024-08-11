@@ -61,3 +61,16 @@ estimate = PredictionPipeline(test_dict).predict()
 # ).run()
 
 print(estimate)
+# Json Objec
+# {
+#     "gender": "",
+#     "age": "",
+#     "hypertension": "",
+#     "heart_disease": "",
+#     "ever_married": "",
+#     "work_type": "",
+#     "Residence_type": "",
+#     "avg_glucose_level": "",
+#     "bmi": "",
+#     "smoking_status": ""
+# }
