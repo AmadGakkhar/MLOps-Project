@@ -61,11 +61,13 @@ We will divide this project in the following parts
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
+    AWS_REGION = 
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = 566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = 
+    
+    MONGODB_URL = 
 
 
 8. Create Docker file
@@ -76,4 +78,3 @@ We will divide this project in the following parts
 
     Goto instances -> Security ->Security Groups -> Edit Inbound Rules -> Add Rule -> Add yor port Number -> 0.0.0.0/0 ->Save Rules
 
-11. 
