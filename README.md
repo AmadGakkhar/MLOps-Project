@@ -32,7 +32,8 @@ We will divide this project in the following parts
     AmazonEC2FullAccess
 
 3. Create ECR repo to store Docker Image.
-    - save the uri
+    save the uri
+    555443311352.dkr.ecr.us-east-1.amazonaws.com/ats-internship
 
 4. Create EC2 Machine (Ubuntu)
 5. Open EC2 and install Docker
